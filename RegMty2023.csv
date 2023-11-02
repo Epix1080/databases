@@ -1,0 +1,510 @@
+﻿Número de Equipo,Nombre de Equipo,Número de Match,Color de Alianza,¿Salió de COMMUNITY? (Durante autónomo),Piezas en Bottom Row (Durante autónomo),Piezas en Middle Row (Durante autónomo),Piezas en Top Row (Durante autónomo),Docking (Durante autónomo),Piezas en Bottom Row (Durante teleoperado),Piezas en Middle Row (Durante teleoperado),Piezas en Top Row (Durante teleoperado),¿El robot defendió?,¿Defendieron a este robot?,Docking (Endgame),¿Cometió Fouls?,¿Cometió fouls técnicos?,Links generados,Puntuación de la alianza,Ranking Points,¿Ganó su alianza?,"Comentarios del equipo
+(Cada detalle importa así que extiéndete en tu respuesta lo más que puedas)",Piezas que coloca,Niveles que alcanza,Auto Community,Auto Docking,Docking Endgame,Puntos del equipo,Porcentaje para alianza
+,,,,,,,,,,,,,,,,,,,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A
+,,,,,,,,,,,,,,,,,,,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A
+,,,,,,,,,,,,,,,,,,,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A
+,,,,,,,,,,,,,,,,,,,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A
+7546,MinerZ,1,Azul,No,1,0,0,No subió al dock,2,3,0,No,No,Park (Zona azul sin subir),No,No,1,58,2,Sí,"Velocidad promedio, aveces tiraban sus piezas","Conos, Cubos","Bottom Row, Middle Row",0,0,2,18,31.03%
+6647,voltec,1,Roja,No,0,0,0,No subió al dock,1,2,0,No,No,Subió al dock CON engage,No,No,0,45,0,No,tiene que intentar poner mas cubos para llegar a tener links,Conos,"Bottom Row, Middle Row",0,0,10,18,40.00%
+3933,Taman Keet,1,Azul,No,0,0,1,No subió al dock,0,0,2,No,No,Subió al dock SIN engage,No,No,2,58,2,Sí,"No se movio en autonomo, en teleoperado fue muy lento pero alcanza muy bien a subirlos conos hasta arriba.",Conos,Top Row,0,0,6,22,37.93%
+3933,Prepa Tec - Taman Keet,1,Azul,No,0,0,1,No subió al dock,0,0,2,No,No,Subió al dock SIN engage,No,No,0,58,2,Sí,Se trabó un poco al inicio pero luego agarro la onda,"Conos, Cubos","Bottom Row, Middle Row, Top Row",0,0,6,22,37.93%
+6170,Prepa Tecmilenio Vitronik,1,Roja,No,0,0,1,No subió al dock,2,0,0,No,No,No,No,No,0,45,0,No,"No saben dejar un conj para irse por otro, se quedan micho tiempo intentando agarrar un cono",Conos,"Bottom Row, Middle Row, Top Row",0,0,0,10,22.22%
+4782,PrepaTec - Borrebots,1,Roja,No,0,0,0,Subió al dock SIN engage,1,1,0,No,No,Subió al dock CON engage,No,No,0,45,0,No,"En general estable, el autonomo trata de subirse al dock, utiliza pinza","Conos, Cubos","Bottom Row, Middle Row",0,8,10,23,51.11%
+6608,ARCADIA,2,Azul,No,0,0,0,No subió al dock,1,0,0,No,No,No,No,No,0,18,0,No,"Fue demasiado lento, solo pudo poner un cono y al intentar poner el segundo se quedo parado por el resto de la ronda.",Conos,Bottom Row,0,0,0,2,11.11%
+4584,Senri hawks,2,Azul,No,0,0,0,No subió al dock,0,1,2,No,No,Subió al dock CON engage,No,No,0,40,0,No,El coach se puso muy mandon y el Drive team nerviosos cuando se trababa el robot,Cubos,"Middle Row, Top Row",0,0,10,23,57.50%
+6676,Thunder Hawks,2,Roja,Sí,0,0,0,No subió al dock,0,0,0,No,No,No,No,No,0,87,2,Sí,este robot solo sale en el autónomo y y luego no hace nada durante el match ( ganaron solo por faults),Cubos,Bottom Row,3,0,0,5,5.75%
+3478,Lambot,2,Roja,No,0,0,0,No subió al dock,1,0,0,No,No,Subió al dock CON engage,No,No,0,87,2,Sí,"No tienen el autonomo terminado, no se pueden casi ni mover, aprovecho para farmear fouls no se si alcance top row",Conos,"Bottom Row, Middle Row",0,0,10,12,13.79%
+3794,Prepa Tecmilenio WinT,2,Roja,No,0,0,0,No subió al dock,0,0,0,Sí,No,Park (Zona azul sin subir),No,No,0,87,2,Sí,"[Posible repeticion de la partida] No se movio casi, les fallo un motor. 70 puntos a favor por penalty pues encerraron a un robot azul dentro de la zona roja/community",Cubos,Bottom Row,0,0,2,2,2.30%
+6106,TecGear,3,Azul,Sí,0,0,0,No subió al dock,0,1,0,No,No,No,No,No,0,38,2,Sí,Un poco torpe y se tarda mucho en agarrar piezas,"Conos, Cubos","Bottom Row, Middle Row",3,0,0,8,21.05%
+6017,Cyberius,3,Azul,Sí,0,0,0,No subió al dock,3,0,0,No,No,Subió al dock CON engage,No,No,0,38,2,Sí,Se tarda mucho en agarrar y arrastrar las piezas,"Conos, Cubos",Bottom Row,3,0,10,21,55.26%
+6106,TecGear,3,Azul,Sí,0,0,0,No subió al dock,0,1,0,No,No,No,No,No,0,18,6,Sí,"Fue lento, su pieza para agarrar cosas les dificulta el agarrar objetos.",Cubos,Middle Row,3,0,0,8,44.44%
+6832,STEAMex,3,Roja,No,0,0,0,No subió al dock,1,0,0,No,No,Subió al dock CON engage,No,No,0,17,0,No,"No se movió en autónomo, se mueve un poco lento, se tambalea, se le es complicado tomar los cubos y conos, y se le cayó un cono.",Conos,Bottom Row,0,0,10,12,70.59%
+5932,Prepa Tecmilenio - Quetzales,3,Roja,Sí,0,0,0,No subió al dock,1,0,0,No,No,Park (Zona azul sin subir),No,No,0,17,0,No,"Hizo e-stop a la mitad de la partida, robot solo arrastra las piezas en el lower level, velocidad media",Cubos,Bottom Row,3,0,2,9,52.94%
+8741,Tecmilenio - Raccoons,4,Roja,No,0,0,0,No subió al dock,0,0,0,No,No,No,No,No,0,0,0,No,El robot no se presentó.,Conos,Bottom Row,0,0,0,0,#¡DIV/0!
+9060,Desert Robotics,4,Azul,No,0,0,0,No subió al dock,0,0,0,Sí,Sí,No,No,No,0,7,0,No,"No puedieron agarrar nada, inseguridad de los drivers o algun problema con el robot",Cubos,"Bottom Row, Middle Row",0,0,0,0,0.00%
+6694,6694,4,Roja,Sí,1,0,0,No subió al dock,1,0,0,No,No,No,No,No,0,17,2,Sí,"El robot tubo muchos problemas en conseguir agarrar los conos y los cubos, ademas al dejarlos trato más de 3 veces en intentar que el cono se pusiese en el middle Row y se terminó poniendo hasta abajo","Conos, Cubos",Bottom Row,3,0,0,10,58.82%
+8741,Tecmilenio - Raccoons,4,Roja,No,0,0,0,No subió al dock,0,0,0,No,No,No,No,No,0,17,2,Sí,El robot no se presentó,Conos,Bottom Row,0,0,0,0,0.00%
+8740,Quantum Force,4,Roja,No,0,0,0,No subió al dock,2,0,0,No,No,Subió al dock SIN engage,Sí,No,0,17,2,Sí,es un arrastrador que tarda en tomar los conos o cubos y se le pueden caer fácilmente,"Conos, Cubos",Bottom Row,0,0,6,10,58.82%
+7725,Nuts and bolts,4,Azul,No,0,0,0,No subió al dock,1,0,0,No,No,No,No,No,0,7,0,No,"Dificultad estabilizando la pinza, fue directo a human player aunque tenia piezas alado, se quedo parado por 20 segundos",Conos,"Middle Row, Top Row",0,0,0,2,28.57%
+3526,Blue Ignition,4,Azul,No,0,0,0,No subió al dock,0,0,0,No,No,Park (Zona azul sin subir),No,No,0,7,23,No,"El robot solo salio una vez del community, una vez que agarro un cubo, este se atoro por casi toda la ronda y no logra colocar nada, pero agarro un cubo y tenia intenciones de ponerlo en el bottom",Cubos,Bottom Row,0,0,2,2,28.57%
+5959,Titanium Rams,5,Azul,Sí,1,0,0,No subió al dock,1,0,0,No,Sí,Park (Zona azul sin subir),No,No,0,57,0,No,"Se apagaron un rato en teleop pero regresaron. Les tomo tiempo aprender a usar su pinza pero cuando ya, eran rapidos","Conos, Cubos",Bottom Row,3,0,2,12,21.05%
+6702,Prepa Tec - StingBots,5,Azul,Sí,0,1,0,No subió al dock,1,2,0,No,No,No,No,No,0,57,0,No,Trato d subir al charging station pero solo hizo a que el otro robot se saliera,"Conos, Cubos","Bottom Row, Middle Row",3,0,0,17,29.82%
+4635,Bot Busters,5,Roja,No,0,0,1,Subió al dock CON engage,0,0,5,No,No,Park (Zona azul sin subir),No,No,4,102,4,Sí,"Es un gran robot, pudo hacer todo en el mejor tiempo posible, una estrategia que uso fue el hecho de que acercó los cubos sin ponerlos deste afuera de la charge station para que cuando volviese a poner un cono/cubo tuviese 2 cosas que poner.","Conos, Cubos","Bottom Row, Middle Row, Top Row",0,12,2,45,44.12%
+9282,SINAVOLT,5,Roja,Sí,1,0,0,No subió al dock,2,0,0,No,No,Subió al dock CON engage,No,No,4,102,4,Sí,aun que puede llegar a poner en la mitad cubos solo los puso en hasta abajo,Cubos,Bottom Row,3,0,10,22,21.57%
+2283,Panteras,5,Roja,No,1,0,0,No subió al dock,2,0,1,No,No,Subió al dock CON engage,No,No,4,102,4,Sí,"Al robot se tarda tiempo en tomar los conos y cubos, se mueve rápido y puede aventar cubos.","Conos, Cubos","Bottom Row, Top Row",0,0,10,22,21.57%
+6702,HORUS,5,Azul,Sí,0,1,0,No subió al dock,1,2,0,No,No,No,No,No,0,57,19,No,"El robot fue a velocidad media, no se le dificulta tanto el tomar piezas.","Conos, Cubos","Bottom Row, Middle Row",3,0,0,17,29.82%
+7102,Daedalus,6,Roja,No,0,0,0,Subió al dock CON engage,1,1,1,No,Sí,Subió al dock CON engage,No,No,0,52,3,Sí,si cumple con lo que promete puede poner conos solo hasta de la mitad y cubos si alcanza hasta arriba pero le cuesta tomar lo conos,"Conos, Cubos","Bottom Row, Middle Row, Top Row",0,12,10,32,61.54%
+3158,TECBOT,6,Roja,Sí,0,0,0,No subió al dock,3,1,0,No,Sí,Subió al dock CON engage,No,No,0,52,3,Sí,"El robot fue muy ágil, pero se le dificulta agarrar los objetos, por lo que solo trata de empujarlos","Conos, Cubos","Bottom Row, Middle Row",3,0,10,24,46.15%
+7102,Daedalus,18,Azul,No,0,0,1,Subió al dock SIN engage,1,2,1,No,Sí,Park (Zona azul sin subir),No,No,0,91,3,Sí,"El robot utilizó una técnica en la que bajaba su brazo para recoger cubos y luego lo subía en el camino, cuando llegaba daba una vuelta y lo colocaba de manera rápida.",Cubos,"Bottom Row, Middle Row",0,8,2,29,31.87%
+8256,ARMY ROBOT TECHNOLOGY,6,Azul,No,1,0,0,No subió al dock,0,0,0,Sí,No,Park (Zona azul sin subir),No,No,0,24,0,No,Solo defendía,Cubos,"Bottom Row, Middle Row",0,0,2,5,20.83%
+5887,IMPERATOR,6,Roja,No,0,0,0,No subió al dock,0,1,0,No,No,No,No,No,0,52,3,Sí,"Su brazo se tambalea mucho, no lo controlan bien, se dejaron de mover a la mitad del match",Cubos,"Bottom Row, Middle Row",0,0,0,3,5.77%
+5133,Blue Steel,6,Azul,No,0,0,0,No subió al dock,0,1,0,Sí,No,No,No,No,0,24,28,No,EL robot fue a velocidad media y su gancho no agarra cosas tan facilmente,Cubos,Middle Row,0,0,0,3,12.50%
+8734,BATS,7,Azul,Sí,0,0,0,No subió al dock,0,0,0,No,No,Subió al dock CON engage,No,No,0,20,0,No,Como que se les rompio la pinza porque solo trataban (y fallaban) de empujar cosas,"Conos, Cubos",Bottom Row,3,0,10,15,75.00%
+6170,Vitnorik,7,Azul,No,0,0,1,No subió al dock,0,0,1,No,No,No,No,No,0,20,0,No,Pinza inestable,"Conos, Cubos",Top Row,0,0,0,11,55.00%
+4403,4403,7,Roja,No,0,0,0,No subió al dock,2,0,0,Sí,No,Subió al dock CON engage,No,No,1,34,2,Sí,"El robot tuvo muchos problemas porque se le enganchó un cono y no podía sacarlo, ademas cuando trataba de buscar una pieza se la quitaban muy rápido.","Conos, Cubos",Bottom Row,0,0,10,14,41.18%
+8734,BATS,7,Azul,Sí,0,0,0,No subió al dock,0,0,0,No,No,Subió al dock CON engage,No,No,0,20,31,No,"El robot fue lento, no agarro ninguna pieza, casi agarra un cubo.",Cubos,Bottom Row,3,0,10,15,75.00%
+4775,Aztech Robotics,7,Roja,No,1,0,0,No subió al dock,1,0,0,No,No,Park (Zona azul sin subir),No,No,1,32,2,Sí,"se le puede quedar atorado los cubos adentro del mecanismo, y eso no lo deja tomar mas conos o cubos",Cubos,"Bottom Row, Middle Row, Top Row",0,0,2,7,21.88%
+6647,Voltec robotics,7,Roja,Sí,0,0,0,No subió al dock,2,0,0,No,No,No,No,No,1,32,2,Sí,"El cono lo pueden poner al revez para que cuando caiga no rebote y se salga, cuando dejaron caer la pieza que no podian poner podian girar un poco el robot y hacer que callera en el otro, hubieran dejado al otro robot balancearse y les ayudaban bajando la charging station del otro lado","Conos, Cubos","Bottom Row, Middle Row",3,0,0,9,28.13%
+4584,SentinelFox Engineering,8,Azul,Sí,0,0,0,No subió al dock,1,0,2,No,No,Subió al dock SIN engage,No,No,0,31,2,Sí,La pinza tarda en agarrar piezas,"Conos, Cubos","Bottom Row, Middle Row, Top Row",3,0,6,23,74.19%
+6608,ARCADIA,8,Roja,Sí,0,0,0,No subió al dock,1,0,0,No,No,No,No,No,0,21,0,No,"se apago al mitad del match, puedo haber puesto mas conos o cubos si se puede subir a la balanza","Conos, Cubos","Bottom Row, Middle Row",3,0,0,7,33.33%
+6832,STEAMex,8,Roja,No,0,0,0,No subió al dock,0,0,0,No,No,No,No,No,0,21,0,No,"No pudo poner nada, fue un robot muy lento. En autónomo ni se movió.",Conos,Bottom Row,0,0,0,0,0.00%
+6106,TecGear,8,Roja,No,0,0,0,No subió al dock,0,0,0,No,No,No,Sí,No,0,21,0,No,"No se pueden subir al la charging station, pero aun asi lo intentaron y por eso perdieron puntos porque ya habia alguien mas",Cubos,Bottom Row,0,0,0,0,0.00%
+9060,Desert Robotics,8,Azul,No,0,0,0,No subió al dock,0,0,0,Sí,Sí,No,No,No,0,31,2,Sí,"No hizo nada, solo se quedó en medio defendiendo",Cubos,Bottom Row,0,0,0,0,0.00%
+6676,Thunder Hawks,8,Azul,Sí,0,0,0,No subió al dock,0,0,0,No,No,Subió al dock SIN engage,No,No,0,31,14,Sí,"Iba a velocidad media, no agarraron nada. (no subieron nada, no se que niveles alcanza)",Cubos,Bottom Row,3,0,6,11,35.48%
+8741,Prepa Tecmilenio - Raccoons,9,Roja,No,0,0,0,No subió al dock,0,0,0,No,No,Park (Zona azul sin subir),No,No,0,30,0,No,Estuvo en e-stop casi toda la partida,Conos,Bottom Row,0,0,2,2,6.67%
+8740,Quantum Force,9,Azul,No,0,0,0,No subió al dock,2,0,0,Sí,Sí,Park (Zona azul sin subir),No,No,0,37,2,Sí,Mejores para defensa porque se tardaban mucho en perseguir piezas,"Conos, Cubos",Bottom Row,0,0,2,6,16.22%
+6348,HORUS,9,Roja,Sí,1,0,0,No subió al dock,1,0,0,No,No,Subió al dock CON engage,Sí,No,0,30,0,No,se tardo todo el match en tomar un cono y al final no lo puso,Conos,"Bottom Row, Middle Row",3,0,10,20,66.67%
+3933,Taman Keet,9,Roja,No,0,0,1,No subió al dock,1,0,0,No,No,Subió al dock CON engage,No,No,0,30,0,No,"No agarran muy bien lo conos, su autonomo es basico","Conos, Cubos","Bottom Row, Middle Row, Top Row",0,0,10,18,60.00%
+8740,Quantum force,9,Azul,No,0,0,0,No subió al dock,2,0,0,Sí,Sí,No,No,No,1,102,2,Sí,"Su pinza batalla en agarra las piezas, ocupa a los conos parados si no no puede. Solo se puede mover enfrente y atrás sus llantas no son de las que se mueven a todos lados.","Conos, Cubos",Bottom Row,0,0,0,4,3.92%
+6702,StingBots,9,Azul,Sí,0,1,0,No subió al dock,1,0,0,No,No,Subió al dock CON engage,No,No,1,37,2,Sí,"Cuando vieron que no podían agarrar piezas, de fueron al docking con engage para no estorbar, reaccionó bien","Conos, Cubos","Bottom Row, Middle Row",3,0,10,21,56.76%
+4635,Botbusters,10,Azul,No,0,0,1,Subió al dock CON engage,0,0,5,No,No,Subió al dock SIN engage,No,No,2,50,0,No,"Que miedo (muy rapidos y precisos, prioritizan siempre la top row)","Conos, Cubos","Bottom Row, Middle Row, Top Row",0,12,6,49,98.00%
+3158,TECBOT,10,Azul,Sí,0,0,0,No subió al dock,1,0,0,No,Sí,No,No,No,2,50,0,No,Robot veloz pero no sabían agarrar las piezas,"Conos, Cubos",Bottom Row,3,0,0,7,14.00%
+6017,Cyberius,10,Roja,Sí,0,0,0,No subió al dock,2,0,0,No,No,Subió al dock CON engage,No,No,0,59,2,Sí,"Su garra casi no sirve, batallan para arrastrar conos y cubos","Conos, Cubos",Bottom Row,3,0,10,19,32.20%
+3158,Tecbot,10,Azul,Sí,0,0,0,Subió al dock SIN engage,3,0,0,No,No,Subió al dock SIN engage,Sí,No,1,50,0,No,"En el autónomo cometió un foul, arrastra la puezas","Conos, Cubos",Bottom Row,3,8,6,25,50.00%
+2283,Panteras,10,Roja,No,1,0,0,No subió al dock,3,0,0,No,No,Subió al dock CON engage,No,No,1,59,2,Sí,"Especialista en cubos y bottom, level, en general muy estable, en autonomo deja un cubo, pero al entrar en teleop tiene que dar media vuelta",Cubos,Bottom Row,0,0,10,19,32.20%
+5932,Quetzales,10,Roja,Sí,0,0,0,No subió al dock,0,0,0,No,No,No,No,No,1,59,2,Sí,no funciono en el match,"Conos, Cubos",Bottom Row,3,0,0,5,8.47%
+4775,Aztech Robotics,11,Azul,Sí,0,0,0,No subió al dock,1,0,0,No,No,Subió al dock CON engage,No,No,0,43,2,Sí,Dejaron de usar su pinza y se enfocaron en empujar piezas hacia la community durante el teleop,"Conos, Cubos","Bottom Row, Middle Row",3,0,10,17,39.53%
+7421,OVERTURE,11,Roja,No,0,0,0,No subió al dock,0,1,0,No,No,Subió al dock CON engage,No,No,0,33,0,No,"no puede subirse a la balanza sin ayuda, no pudo tomar conos ni cubos solo el del inicio","Conos, Cubos","Bottom Row, Middle Row",0,0,10,13,39.39%
+7102,Deadalus,31,Roja,No,0,0,1,Subió al dock CON engage,0,3,1,No,No,Park (Zona azul sin subir),,,1,70,2,Sí,"Su Telop es solo hacer engaged, pero alcanza a hacer varios 0untos en medio, y puede llegar a dejar arriba, pero se tarda","Conos, Cubos","Bottom Row, Middle Row, Top Row",0,12,2,34,48.57%
+3472,Buluk,11,Azul,No,0,0,0,No subió al dock,0,2,1,No,No,Subió al dock CON engage,No,No,0,43,2,Sí,"Se tardo 1 minuto en agarrar un cubo, pero puso luego rápidamente tres cubos y salvo a la alianza y la hizo ganar",Cubos,"Bottom Row, Middle Row, Top Row",0,0,10,21,48.84%
+9282,PrepaTec- SINAVOLT,11,Roja,Sí,1,0,0,No subió al dock,1,1,0,No,No,Subió al dock CON engage,No,No,0,33,0,No,"Especialista en cubos con sistema tipo intake, un poco tardado al agarrar cubos con human player, al finalizar priorizan ir al dock",Cubos,"Bottom Row, Middle Row",3,0,10,23,69.70%
+8256,ARMY ROBOT TECHNOLOGY,12,Roja,No,0,0,0,No subió al dock,1,0,0,Sí,No,No,Sí,No,1,89,3,Sí,"en medio del match no puede poner conos ni cubos, porque si los intentan arrastrar se quedan atorados en la pinza","Conos, Cubos",Bottom Row,0,0,0,2,2.25%
+4010,Nautilus,12,Azul,No,0,0,0,No subió al dock,7,0,0,No,Sí,No,No,No,3,69,0,No,"El robot iba súper veloz y ágil, puso el solito 7 cubos y se pudieron hacer 3 links. Agarra cubos con mucha facilidad
+No subestimen este robot",Cubos,Bottom Row,0,0,0,14,20.29%
+4403,Roult,12,Roja,No,0,0,1,Subió al dock CON engage,0,0,4,No,No,Subió al dock CON engage,No,No,1,89,3,Sí,Es especialista en conos en top row,"Conos, Cubos","Bottom Row, Middle Row, Top Row",0,12,10,48,53.93%
+8293,Prepa Tecmilenio - Startech,12,Roja,No,0,0,0,No subió al dock,2,0,0,Sí,No,Subió al dock CON engage,No,No,1,89,3,Sí,"Especialista en cubos en bottom y en defender, problemas para subir al dock, velocidad media",Cubos,Bottom Row,0,0,10,14,15.73%
+6694,Inobotics,12,Azul,No,1,0,0,No subió al dock,0,2,1,No,No,Park (Zona azul sin subir),Sí,No,2,69,0,No,Se intento subir a estacionarse pero no pudo porque manejó muy rapido y prefirio que solo un robot quedara estacionado,"Conos, Cubos","Bottom Row, Middle Row, Top Row",0,0,2,16,23.19%
+8734,BATS,13,Roja,No,0,0,0,No subió al dock,0,0,0,Sí,No,Subió al dock CON engage,No,No,3,71,2,Sí,solo puede arastrar y no lo hacen bien,"Conos, Cubos",Bottom Row,0,0,10,10,14.08%
+5133,Blue Steel,13,Azul,No,1,0,0,No subió al dock,0,0,0,Sí,No,Subió al dock CON engage,No,No,0,50,0,No,Al darse cuenta que se robot no podía agarrar piezas empezaron a empujar piezas a robots d su alianza,Cubos,Bottom Row,0,0,10,13,26.00%
+5959,Titanium Rams,13,Roja,Sí,1,0,0,No subió al dock,8,0,0,No,No,No,No,No,3,71,2,Sí,"Es muy buen equipo para 2 do pick porque ocupa todo el low row, creo que tiene swerve","Conos, Cubos",Bottom Row,3,0,0,24,33.80%
+7456,Prepa Tec - MinerZ,13,Roja,Sí,1,0,0,No subió al dock,0,2,0,No,No,Subió al dock CON engage,No,No,3,71,3,Sí,"En autonomo trata de poner un cubo en top, pero se cayo a bottom, robot all-around","Conos, Cubos","Bottom Row, Middle Row",3,0,10,24,33.80%
+3478,Lambot,14,Roja,Sí,0,0,0,No subió al dock,3,2,1,No,No,Subió al dock CON engage,No,No,1,79,3,Sí,"Es muy rapido y cubre los espacios de los cubos, buen primer pick",Cubos,"Bottom Row, Middle Row, Top Row",3,0,10,32,40.51%
+6647,VOLTEC,14,Azul,No,1,0,0,No subió al dock,2,0,0,No,No,Park (Zona azul sin subir),No,No,2,24,0,No,Se movió bien pero no alcanzó el tiempo para poner muchos conos o cubos en los niveles más altos,"Conos, Cubos",Bottom Row,0,0,2,9,37.50%
+6106,TecGear,14,Roja,Sí,0,0,0,No subió al dock,1,1,0,No,No,Subió al dock CON engage,No,No,1,79,2,Sí,es lento pero si puede poner conos en la mitad,"Conos, Cubos","Bottom Row, Middle Row",3,0,10,20,25.32%
+6608,ARCADIA,14,Azul,Sí,0,0,0,No subió al dock,1,0,0,No,No,No,No,No,2,24,0,No,Solo puso un cubo y al tratar de agarrar otro se quedó ahí parado para el resto d la partida,Cubos,Bottom Row,3,0,0,7,29.17%
+7102,PrepaTec - Daedalus,14,Roja,No,0,0,1,Subió al dock CON engage,2,1,2,No,No,Park (Zona azul sin subir),No,No,1,79,3,Sí,"En autonomo va por un cubo en top, robot muy estable, priorizan piezas antes que defender, robot all-around, muy eficiente para agarrar piezas","Conos, Cubos","Bottom Row, Middle Row, Top Row",0,12,2,37,46.84%
+7421,Overture,15,Roja,No,0,0,0,No subió al dock,2,3,1,No,No,Subió al dock CON engage,No,No,1,75,3,Sí,"Rapidos, casi no ponen top row porque se desvalancean mucho","Conos, Cubos","Bottom Row, Middle Row, Top Row",0,0,10,28,37.33%
+6017,Abtomat,15,Roja,Sí,0,0,0,Subió al dock SIN engage,3,0,0,No,No,Subió al dock CON engage,Sí,Sí,1,75,3,Sí,empoezo a jugar como arrastrador y como es raipido se le da bien,"Conos, Cubos",Bottom Row,3,8,10,29,38.67%
+4775,Aztech Robotics,1,Azul,No,0,0,0,No subió al dock,0,0,0,No,No,Subió al dock CON engage,No,No,1,49,0,No,"Su pinza as muy inestable, no la pudieron controlar mitad del tiempo.","Conos, Cubos",Middle Row,0,0,10,10,20.41%
+2283,Panteras,15,Azul,No,1,0,0,No subió al dock,4,0,0,Sí,Sí,Subió al dock CON engage,Sí,No,1,49,0,No,"Probablemente el robot más rápido en el match. Aunque levantaba muy fácilmente las piezas, nunca las podía poner correctamente en los lugares más altos.",Cubos,Bottom Row,0,0,10,21,42.86%
+4584,SentinelFox Engineering,15,Roja,No,0,0,0,No subió al dock,0,1,1,No,No,Subió al dock CON engage,No,No,1,75,3,Sí,"Inicia con un cubo y trata de salir de la comunidad, sin exito, la pinza es delgada, fragil, y balancea mucho por lo que no tiene buen agarre, un cono se quedo atorado dentro del robot, lo que dificulto el resto de la partida","Conos, Cubos","Middle Row, Top Row",0,0,10,18,24.00%
+3158,TECBOT,16,Roja,Sí,0,0,0,Subió al dock SIN engage,3,0,0,No,No,Subió al dock CON engage,No,No,0,29,0,No,se dedico a ser arrastrador,"Conos, Cubos",Bottom Row,3,8,10,29,100.00%
+4010,Nautilus,16,Azul,No,0,0,0,No subió al dock,6,0,0,No,Sí,No,No,No,3,93,2,Sí,"A pesar de que solo pueda colocar cubos en la parte de abajo, es un robot muy rápido que tiene una gran agilidad",Cubos,Bottom Row,0,0,0,12,12.90%
+4403,Roult,16,Azul,Sí,0,0,1,No subió al dock,1,0,4,Sí,Sí,Subió al dock CON engage,No,No,4,63,2,Sí,Estaba preloaded con un cubo. Bastante rápido y estratégico. Tenía una gran habilidad para poner piezas correctamente en los rows altos. A veces le estorbaba a su propia alianza pero era muy eficiente.,"Conos, Cubos","Bottom Row, Middle Row, Top Row",3,0,10,43,68.25%
+6702,Stingbots,16,Roja,No,1,0,0,No subió al dock,2,1,0,No,No,No,No,No,0,30,0,No,No se sube al engage autonomo basico,"Conos, Cubos","Bottom Row, Middle Row",0,0,0,10,33.33%
+8741,Raccoons,17,Roja,No,0,0,0,No subió al dock,1,0,0,No,No,Subió al dock CON engage,No,No,1,35,0,No,arrastrador no tan eficaz,"Conos, Cubos",Bottom Row,0,0,10,12,34.29%
+5133,Blue Steel,17,Roja,No,0,0,0,No subió al dock,1,1,0,No,No,Subió al dock CON engage,No,No,1,35,0,No,puede poner cubos en el medio que nos ayudaria en el match,Cubos,"Bottom Row, Middle Row",0,0,10,15,42.86%
+3472,Buluk,17,Azul,No,1,0,0,No subió al dock,0,2,0,No,No,Subió al dock CON engage,No,No,1,0,0,Sí,El robot tuvo muchas complicaciones consiguiendo los cubos pero cuando los los obtuvo los colocó de manera rápida y precisa,Cubos,"Bottom Row, Middle Row",0,0,10,19,#¡DIV/0!
+5959,Titanium Rams,18,Roja,Sí,1,0,0,No subió al dock,7,0,0,No,No,Park (Zona azul sin subir),No,No,2,45,0,No,recoge los cubos con la pinza y asi se los lleva rápido pero solo los pone abajo,"Conos, Cubos",Bottom Row,3,0,2,24,53.33%
+9060,Hermosillo,18,Roja,No,0,0,0,No subió al dock,0,0,0,No,No,No,No,No,1,45,0,No,Muy apenas se mueven,Cubos,Bottom Row,0,0,0,0,0.00%
+9282,.,.,Azul,No,0,0,0,No subió al dock,2,0,0,Sí,No,Subió al dock CON engage,No,No,1,91,3,Sí,Se mueve lento,Cubos,Bottom Row,0,0,10,14,15.38%
+9213,Sinavolt,34,Roja,No,0,0,0,No subió al dock,2,0,0,No,No,Subió al dock CON engage,No,No,0,52,1,No,El robot tuvo complicaciones al comienzo pero consiguió recuperarse,"Conos, Cubos",Bottom Row,0,0,10,14,26.92%
+6676,Prepa Tecmilenio - Thunder Hawks,16,Roja,No,0,0,0,No subió al dock,1,0,0,No,No,No,No,No,0,29,0,No,Metodo de succion muy fragil,Cubos,Bottom Row,0,0,0,2,6.90%
+8256,Prepa Tecmilenio - ARMY ROBOT TECHNOLOGY,18,Roja,No,0,0,0,No subió al dock,1,0,0,Sí,Sí,No,Sí,No,1,45,0,No,"Se desconecto varias veces durante la partida, incluyendo al final en el que cometio multiples penalties por irrumpir en la comunidad azul",Conos,Bottom Row,0,0,0,2,4.44%
+3794,WinT,19,Azul,No,0,0,0,No subió al dock,0,0,0,No,No,No,No,No,0,30,0,No,No hizo nada,"Conos, Cubos",Bottom Row,0,0,0,0,0.00%
+5887,IMPERATOR,19,Roja,No,0,1,0,No subió al dock,3,0,0,No,No,No,No,No,2,49,2,Sí,El driver sabe que es lo mejor pero no agarran muy bien los cubos,Cubos,"Bottom Row, Middle Row",0,0,0,10,20.41%
+7725,Nutz and volts,19,Azul,No,0,0,0,No subió al dock,3,0,0,No,No,Subió al dock CON engage,No,No,0,30,0,No,Solo se movía su robot de la alianza,"Conos, Cubos",Bottom Row,0,0,10,16,53.33%
+3256,PrepaTec - Blue Ignition,19,Azul,No,0,0,0,No subió al dock,0,0,0,No,No,Park (Zona azul sin subir),No,No,2,49,2,Sí,"Problemas mayores en la partida para moverse, trato de subirse al dock pero tuvo muchas dificultades",Conos,Bottom Row,0,0,2,2,4.08%
+5887,Imperator,19,Roja,No,0,0,0,No subió al dock,3,1,0,No,No,Park (Zona azul sin subir),No,No,2,49,2,Sí,"El robot se trababa al manejar, se mantuvo quieto durante autónomo, tiene problemas para agarrar los cubos, es lento.",Cubos,"Bottom Row, Middle Row",0,0,2,11,22.45%
+6170,Vitronik,19,Roja,No,0,0,0,No subió al dock,1,0,3,No,No,Subió al dock CON engage,No,No,2,49,2,No,puede fácilmente hacer un link hasta arriba,"Conos, Cubos","Bottom Row, Middle Row, Top Row",0,0,10,27,55.10%
+8734,BATS,20,Azul,No,0,0,0,No subió al dock,1,0,0,No,No,Subió al dock CON engage,No,No,3,88,3,Sí,Se enfocaba en empujar piezas. Habia ratos que se quedaba parado sin hacer nada,"Conos, Cubos",Bottom Row,0,0,10,12,13.64%
+8293,Startech,20,Roja,No,0,0,0,No subió al dock,3,0,0,No,No,Subió al dock CON engage,No,No,1,65,1,No,"Es buen segundo pick para arrastrador, ahorita le fue mal porque se le rompió la pala que tiene para arrastrar mas facil","Conos, Cubos",Bottom Row,0,0,10,16,24.62%
+7546,MinerZ,20,Roja,Sí,0,0,0,No subió al dock,0,0,3,No,No,Subió al dock CON engage,No,No,1,65,1,No,cuando intenta agarrar cubos se les resbala,"Conos, Cubos","Bottom Row, Middle Row",3,0,10,30,46.15%
+9280,PrepaTec - High Altitude Robotics,20,Roja,No,0,0,1,Subió al dock SIN engage,1,0,1,No,No,No,No,No,1,65,1,No,"Casi siempre tratan de ir por piezas hasta arriba, al final no intentaron ir por el dock, alcanza facilmente los niveles superiores","Conos, Cubos","Bottom Row, Top Row",0,8,0,21,32.31%
+7546,MinerZ,20,Roja,Sí,0,0,0,No subió al dock,0,3,0,No,No,Subió al dock CON engage,No,No,1,65,1,No,"Agarra mejor los conos que los cubos, puede levantar conos acostados, el robot estaba un poco descontrolado, sube con facilidad al dock.","Conos, Cubos","Bottom Row, Middle Row, Top Row",3,0,10,24,36.92%
+9213,TECUANI,6,Azul,No,0,0,0,No subió al dock,2,0,0,Sí,No,Subió al dock CON engage,No,No,0,24,0,No,"Poca precision porque solo empujaban, no habia pinza (o no funcionaba)","Conos, Cubos",Bottom Row,0,0,10,14,58.33%
+4775,Aztech Robotics,21,Azul,No,0,0,1,Subió al dock SIN engage,1,0,1,Sí,Sí,Subió al dock CON engage,No,No,0,42,0,No,"Pinza lenta, pero eran rapidos moviendose","Conos, Cubos","Bottom Row, Middle Row, Top Row",0,8,10,31,73.81%
+2283,Panteras,21,Roja,No,0,0,0,No subió al dock,3,0,0,No,No,Park (Zona azul sin subir),No,No,2,54,2,Sí,Solo van por bottom row y solo hacen 3 por lo que no conviene,Cubos,Bottom Row,0,0,2,8,14.81%
+4403,Peñoles,21,Roja,No,0,0,0,Subió al dock SIN engage,1,3,0,No,No,Park (Zona azul sin subir),Sí,No,2,54,2,Sí,si pone muy bien en la mitad los conos y cubos,"Conos, Cubos","Bottom Row, Middle Row",0,8,2,21,38.89%
+6106,TecGear,21,Azul,Sí,0,0,0,No subió al dock,0,0,0,No,No,No,No,No,0,42,0,No,"Después de moverse en automático, no se volvió a mover en todo el match.","Conos, Cubos","Bottom Row, Middle Row, Top Row",3,0,0,5,11.90%
+6694,INNOBOTICS,21,Roja,Sí,0,0,0,No subió al dock,1,0,0,Sí,No,Subió al dock SIN engage,No,No,1,54,2,Sí,"Se quedó mucho tiempo quieto con un cubo sostenido, les falló el robot, no puede colocar cubos en una altura alta.",Cubos,Bottom Row,3,0,6,13,24.07%
+6694,INNOBOTICS,21,Roja,Sí,0,0,0,No subió al dock,1,0,0,No,Sí,Subió al dock SIN engage,No,No,2,54,2,Sí,"Problemas al inicio con la garra, se quedo atorada, subio al dock con facilidad pero se quedo sin tiempo",Cubos,Bottom Row,3,0,6,13,24.07%
+6608,ARCADIA,22,Azul,No,0,1,0,No subió al dock,2,0,0,No,No,Subió al dock CON engage,No,No,1,37,0,No,"No usaba su pinza en teleop, solo empujaba piezas","Conos, Cubos","Bottom Row, Middle Row",0,0,10,18,48.65%
+3933,Taman Keet,22,Roja,Sí,0,0,1,No subió al dock,0,0,2,No,No,Subió al dock CON engage,No,No,2,114,3,Sí,"Recogía las piezas de manera rápida, sin embargo se tardaban para colocarlas, era un robot medio lento pero controlable, se subió al dock con facilidad.","Conos, Cubos","Bottom Row, Middle Row, Top Row",3,0,10,31,27.19%
+3933,Taman Keet,22,Roja,No,0,0,1,No subió al dock,0,0,2,No,No,Subió al dock CON engage,No,No,2,114,3,Sí,Tardan un poco en acomodarse para poner los conos,"Conos, Cubos","Bottom Row, Middle Row, Top Row",0,0,10,26,22.81%
+4010,Nautilus,22,Roja,No,1,0,0,No subió al dock,3,0,0,Sí,No,Subió al dock CON engage,No,No,3,114,3,Sí,"Es veloz y puede bloquear un poco, sin embargo solo puede colocar en la primera fila",Cubos,Bottom Row,0,0,10,19,16.67%
+4010,Nautilus,22,Roja,No,1,0,0,No subió al dock,4,0,0,No,No,Subió al dock CON engage,No,No,2,114,3,Sí,arrastra bien y si es posible balanziar 3 robots,Cubos,Bottom Row,0,0,10,21,18.42%
+3478,Lambot,19,Roja,No,0,0,0,No subió al dock,1,0,0,No,No,Subió al dock CON engage,No,No,2,114,3,Sí,"Poncho una pelota, se le cayó un cono en el middle",Conos,Middle Row,0,0,10,12,10.53%
+7421,OVERTUE,22,Azul,No,0,0,0,No subió al dock,1,3,0,No,No,Park (Zona azul sin subir),No,No,1,23,0,No,Buena precisión,Conos,"Bottom Row, Middle Row",0,0,2,13,56.52%
+6647,VOLTEC,23,Roja,No,0,0,0,No subió al dock,2,2,0,No,No,Subió al dock CON engage,No,No,1,105,2,Sí,"Colocó gran cantidad de piezas, generó un link, casi se volteó pero se recuperó parar con facilidad, se movía rápido, agarra las piezas con facilidad.","Conos, Cubos","Bottom Row, Middle Row",0,0,10,20,19.05%
+6647,Voltec Robotics,23,Roja,No,0,0,0,No subió al dock,2,3,0,No,No,Subió al dock CON engage,No,No,1,105,2,Sí,Mejoraron mucho los ciclos,"Conos, Cubos","Bottom Row, Middle Row",0,0,10,23,21.90%
+6017,Cyberius + Abtomat + Rockin Robots,23,Azul,No,0,0,0,Subió al dock SIN engage,2,0,0,Sí,Sí,Subió al dock CON engage,No,No,1,44,0,No,"No usaban su pinza, solo empujaban","Conos, Cubos",Bottom Row,0,8,10,22,50.00%
+6676,Thunder Hawks,23,Roja,Sí,0,0,0,No subió al dock,0,0,0,Sí,No,No,Sí,No,1,105,2,Sí,ayudo pasando cubos,Cubos,Bottom Row,3,0,0,5,4.76%
+7546,MinerZ,24,Roja,Sí,1,0,0,No subió al dock,3,2,0,No,No,Subió al dock CON engage,No,No,1,54,2,Sí,Hacen mas o menos lo mismo que nosotros,"Conos, Cubos","Bottom Row, Middle Row",3,0,10,30,55.56%
+9282,.,24,Roja,Sí,0,0,0,No subió al dock,3,0,0,No,No,Subió al dock CON engage,No,No,0,52,0,No,No es muy ágil al agarrar piezas,Cubos,Bottom Row,3,0,10,21,40.38%
+7725,NUTS & VOLTS,24,Roja,No,0,0,0,No subió al dock,1,0,0,No,No,No,No,No,1,54,2,Sí,el robot le paso todos los conos y cubos a otro,"Conos, Cubos",Bottom Row,0,0,0,2,3.70%
+9213,TECUANI,11,Roja,No,0,0,0,No subió al dock,0,0,0,No,No,No,No,No,0,33,0,No,Se quedó parado durante en teleoperado,"Conos, Cubos","Bottom Row, Middle Row, Top Row",0,0,0,0,0.00%
+4584,Sentinel Fox Engeniering,24,Azul,No,0,0,1,No subió al dock,0,1,2,No,No,Subió al dock CON engage,Sí,No,0,52,0,No,En el autónomo pudo un vino en el top,Cubos,"Bottom Row, Middle Row, Top Row",0,0,10,29,55.77%
+7546,MinerZ,24,Roja,Sí,1,0,0,No subió al dock,2,2,0,No,No,Subió al dock CON engage,No,No,1,54,2,Sí,"Se mueve lento, agarra las piezas con facilidad, no mueve agarrar piezas acostadas.","Conos, Cubos","Bottom Row, Middle Row",3,0,10,28,51.85%
+8256,Army Robot Technology,24,Azul,No,1,0,0,No subió al dock,0,0,0,Sí,No,Park (Zona azul sin subir),Sí,No,0,52,0,No,Solo pudo poner un cubo preloaded. Constantemente le estorbaba a ambas alianzas.,Conos,Bottom Row,0,0,2,5,9.62%
+8734,BATS,25,Azul,No,0,0,0,No subió al dock,0,0,0,No,No,No,No,No,0,43,0,No,No se movió en toda la partida,"Conos, Cubos",Bottom Row,0,0,0,0,0.00%
+3472,Buluk,25,Azul,Sí,0,0,0,No subió al dock,1,0,0,No,No,No,No,No,0,43,0,No,Se dejó de mover casi desde el inicio,Cubos,Bottom Row,3,0,0,7,16.28%
+9280,High Altitude Robotics,25,Roja,Sí,0,0,1,Subió al dock SIN engage,0,0,0,No,No,Park (Zona azul sin subir),Sí,No,1,73,3,Sí,"No agarraba bien las piezas, se quedaba quieto a veces, se le caían las piezas mientras manejaban.","Conos, Cubos","Bottom Row, Middle Row, Top Row",3,8,2,21,28.77%
+6348,PrepaTec - HORUS,23,Roja,No,0,0,1,Subió al dock SIN engage,0,0,0,No,No,Park (Zona azul sin subir),No,No,1,73,3,Sí,"Trato de hacer estrategia de transportista con poco exito, autonomo muy potente, aunque el docking pueda ser sin engage, pinza muy versatil","Conos, Cubos",Top Row,0,8,2,16,21.92%
+6170,Vitronik,23,Roja,No,0,0,1,No subió al dock,0,1,1,No,No,Subió al dock CON engage,No,No,1,73,3,Sí,"solo puede poner conos en la mas alta, y tarda un rato","Conos, Cubos","Bottom Row, Middle Row, Top Row",0,0,10,24,32.88%
+6702,.,26,Azul,No,0,0,0,No subió al dock,0,0,0,No,No,No,No,No,0,26,0,No,No se movio,Cubos,Bottom Row,0,0,0,0,0.00%
+8293,Startech,26,Azul,No,1,0,0,No subió al dock,1,0,0,No,No,No,No,No,0,26,0,No,Es especialista en cubos en Botton Row,Cubos,Bottom Row,0,0,0,5,19.23%
+3794,WinT,26,Roja,No,0,0,0,No subió al dock,1,0,0,No,No,Subió al dock CON engage,No,No,1,37,2,Sí,ayudo a traer conos y cubos,"Conos, Cubos",Bottom Row,0,0,10,12,32.43%
+5133,Blue Steel,26,Roja,No,1,0,0,No subió al dock,0,1,0,No,No,Park (Zona azul sin subir),No,No,0,37,2,Sí,Tenian conflicto con su agarre que eran las pinzas se movían medio lento no agarraba bien los cubos,"Conos, Cubos","Bottom Row, Middle Row",0,0,2,8,21.62%
+5932,Prepa Tecmilenio - Quetzales,26,Roja,No,0,0,0,No subió al dock,1,0,0,No,No,No,No,No,0,37,2,Sí,"Robot sin pinza o garra, util para tranpsortar objetos y defender",Cubos,Bottom Row,0,0,0,2,5.41%
+3526,Blue ignition,27,Azul,No,0,0,0,No subió al dock,0,0,0,No,No,No,No,No,2,44,0,Sí,Es muy lento,Cubos,Bottom Row,0,0,0,0,0.00%
+5887,Imperator,27,Roja,No,0,0,0,No subió al dock,1,0,0,No,No,No,No,No,3,87,3,Sí,Tiene problemas agarrando cubos,"Conos, Cubos","Bottom Row, Middle Row, Top Row",0,0,0,2,2.30%
+4635,.,27,Roja,No,0,0,1,Subió al dock CON engage,1,0,5,No,No,Subió al dock CON engage,No,No,3,87,3,Sí,"Rápido, hace links en el nivel superior consistentemente, pero también puede hacer 9tros niveles","Conos, Cubos","Bottom Row, Middle Row, Top Row",0,12,10,55,63.22%
+3158,TECBOT,27,Azul,Sí,0,0,0,No subió al dock,4,0,0,Sí,No,Subió al dock SIN engage,No,No,2,44,0,No,se mueve bien y rapido para dejar abajo,"Conos, Cubos",Bottom Row,3,0,6,19,43.18%
+8256,Army Robot Technology,28,Roja,No,1,0,0,No subió al dock,1,0,0,No,Sí,Park (Zona azul sin subir),Sí,No,2,64,3,Sí,Tiene problemas agarrar los game pieces y no es muy estable,"Conos, Cubos","Bottom Row, Middle Row, Top Row",0,0,2,7,10.94%
+6017,.,28,Roja,No,0,0,0,Subió al dock SIN engage,2,0,0,Sí,No,Subió al dock CON engage,No,No,1,64,3,Sí,Solo arrastraba las piezas a la primera fila y realmente se veía con dificultad al moverse por cosas,"Conos, Cubos",Bottom Row,0,8,10,22,34.38%
+5959,Titanium rams,28,Azul,Sí,1,0,0,No subió al dock,3,0,0,No,Sí,No,No,No,0,56,0,No,Es preciso,Cubos,Bottom Row,3,0,0,14,25.00%
+6608,Prepa Tecmilenio - ARCADIA,27,Roja,No,1,0,0,No subió al dock,0,0,0,No,No,Subió al dock CON engage,No,No,3,87,3,Sí,Estrategia de transportista,Conos,Bottom Row,0,0,10,13,14.94%
+2283,Panteras,29,Azul,No,0,0,1,No subió al dock,4,0,0,No,No,Subió al dock CON engage,No,No,1,62,1,No,Es rápido,"Conos, Cubos",Bottom Row,0,0,10,24,38.71%
+6694,Innobotics,29,Roja,Sí,1,1,1,No subió al dock,0,2,0,No,No,Park (Zona azul sin subir),No,No,2,80,2,Sí,Batalla en tomar los conos d la parte de arriba del human player,"Conos, Cubos","Bottom Row, Middle Row",3,0,2,26,32.50%
+3478,Lambot,29,Roja,No,0,0,0,Subió al dock SIN engage,1,2,2,No,No,Subió al dock CON engage,No,No,2,80,2,Sí,"Es rápido, es especialista en ambos conos y cubos en todos los niveles.","Conos, Cubos","Bottom Row, Middle Row, Top Row",0,8,10,36,45.00%
+9280,High Altitude Robotics,29,Azul,No,0,0,1,Subió al dock SIN engage,1,0,0,Sí,No,Subió al dock CON engage,No,No,1,62,1,No,no logra hacer los puntos en la mitad,"Conos, Cubos","Bottom Row, Top Row",0,8,10,26,41.94%
+7546,Prepa Tec - MinerZ,28,Roja,Sí,0,1,0,No subió al dock,1,1,0,No,No,Subió al dock CON engage,No,No,2,64,2,Sí,Muy rapido,"Conos, Cubos","Bottom Row, Middle Row",3,0,10,24,37.50%
+4010,Nautilus,30,Azul,Sí,0,0,0,No subió al dock,8,0,0,Sí,No,Subió al dock CON engage,No,No,3,64,2,Sí,Es muy rápido,Cubos,Bottom Row,3,0,10,31,48.44%
+6702,Stingbots,30,Roja,Sí,0,0,0,No subió al dock,3,0,0,No,No,Park (Zona azul sin subir),No,No,0,21,0,No,Tiene problemas agarrando game pieces,"Conos, Cubos","Bottom Row, Middle Row, Top Row",3,0,2,13,61.90%
+9060,Desert robotics,30,Roja,No,0,0,0,No subió al dock,0,0,0,No,No,Park (Zona azul sin subir),No,No,0,21,0,No,No se movió hasta el final,Cubos,Bottom Row,0,0,2,2,9.52%
+4775,Aztech Robotics,30,Azul,No,0,1,0,No subió al dock,0,3,0,No,No,Park (Zona azul sin subir),No,No,3,64,2,Sí,su idea de empezar en el autonomo con el cubo y luego ya poner los conos es una buena idea,"Conos, Cubos","Bottom Row, Middle Row",0,0,2,15,23.44%
+6348,PrepaTec - HORUS,29,Roja,Sí,0,0,0,No subió al dock,0,0,3,No,No,Subió al dock CON engage,Sí,No,2,80,2,Sí,"Puso un cuvo en middle en autonomo, despues lo movio a top en teleop","Conos, Cubos","Middle Row, Top Row",3,0,10,30,37.50%
+3472,PrepaTec - Buluk,30,Roja,Sí,0,0,0,No subió al dock,1,0,0,No,Sí,Subió al dock SIN engage,Sí,No,0,21,0,No,"Muy rapido, coloca piezas",Cubos,Bottom Row,3,0,6,13,61.90%
+8293,Startech,31,Azul,No,0,0,0,No subió al dock,3,0,0,No,No,Park (Zona azul sin subir),No,No,0,33,0,No,Es medio lento y solo arrastra,Cubos,Bottom Row,0,0,2,8,24.24%
+5887,IMPERATOR,31,Azul,No,0,0,0,No subió al dock,0,0,0,No,No,Park (Zona azul sin subir),No,No,0,33,0,No,no se movió en todo el match,Cubos,Bottom Row,0,0,2,2,6.06%
+8740,Quantumforce,31,Roja,No,0,0,0,No subió al dock,2,0,0,No,No,Subió al dock CON engage,No,No,1,70,2,Sí,Es un arrastrador,Cubos,Bottom Row,0,0,10,14,20.00%
+9213,TECUANI,20,Azul,No,0,0,0,No subió al dock,0,0,0,Sí,No,Subió al dock CON engage,No,No,1,32,3,Sí,Reunió varias piezas pero no colocó ninguna. Se rendía en colocar piezas muy rápido y cambiaba de objetivo constantemente. En las sig 2 en relidad no colocó ninguna pieza,"Conos, Cubos",Bottom Row,0,0,10,10,31.25%
+6170,Prepa Tecmilenio Vitronik,31,Roja,No,0,0,0,No subió al dock,1,0,2,No,No,Park (Zona azul sin subir),No,No,1,70,2,Sí,"Intento poner un cono en top en autonomo, especialista en conos en top, rapido",Conos,"Bottom Row, Top Row",0,0,2,14,20.00%
+8734,Bats,32,Azul,Sí,0,0,0,No subió al dock,2,0,0,No,No,No,No,Sí,0,20,0,No,Se pasó al otro lado en autónomo y es lento,"Conos, Cubos",Bottom Row,3,0,0,9,45.00%
+3526,Blue Ignition,32,Roja,No,0,0,0,No subió al dock,1,0,0,No,No,No,No,No,1,90,2,Sí,Se quedó parado durante la partida,"Conos, Cubos","Bottom Row, Middle Row, Top Row",0,0,0,2,2.22%
+3158,Tecbot,32,Azul,Sí,0,0,0,No subió al dock,2,0,0,No,No,No,No,No,1,20,1,No,Se atasco un cono acostado en el que empuja,"Conos, Cubos",Bottom Row,3,0,0,9,45.00%
+3933,Taman keet,32,Roja,Sí,0,0,1,No subió al dock,0,0,2,No,No,Subió al dock CON engage,,,1,90,2,Sí,Solo alcanzo a colocar 2 piezas en telop y subirse a engaged,"Conos, Cubos","Bottom Row, Middle Row, Top Row",3,0,10,31,34.44%
+6676,Thunder Hawks,33,Roja,No,0,0,0,No subió al dock,0,0,0,No,No,No,No,No,0,22,0,No,El robot no se presentó,Conos,Bottom Row,0,0,0,0,0.00%
+4635,Botbusters,33,Azul,Sí,0,0,1,Subió al dock CON engage,0,1,5,No,No,Subió al dock CON engage,No,No,1,86,3,Sí,Muy preciso.,"Conos, Cubos","Bottom Row, Middle Row, Top Row",3,12,10,61,70.93%
+6106,PrepaTec - TecGear,32,Roja,Sí,1,0,0,No subió al dock,0,1,0,Sí,No,Park (Zona azul sin subir),No,No,1,90,2,Sí,"Rapido, facilidad con las piezas","Conos, Cubos","Bottom Row, Middle Row",3,0,2,13,14.44%
+9282,Sinavolt,33,Roja,No,1,0,0,No subió al dock,1,1,0,No,No,Subió al dock SIN engage,,,1,22,0,No,Su telop es solo poner un cubo y es lento,Cubos,"Bottom Row, Middle Row",0,0,6,14,63.64%
+3794,WinT,0,Azul,No,0,0,0,No subió al dock,0,0,0,Sí,No,Park (Zona azul sin subir),No,No,0,86,3,Sí,Parece que se les rompió la pinza así que se encargaron de defender.,Conos,Bottom Row,0,0,2,2,2.33%
+5932,Quetzales,34,Azul,Sí,0,0,0,No subió al dock,2,0,0,No,No,No,No,No,1,59,3,Sí,.,Cubos,Bottom Row,3,0,0,9,15.25%
+6832,Steamex,34,Roja,No,0,0,0,Subió al dock CON engage,0,0,1,No,No,No,,,0,52,1,No,El robot dejó de moverse después de dejar una pieza,"Conos, Cubos","Bottom Row, Middle Row, Top Row",0,12,0,17,32.69%
+6647,VOLTEC Robotics,34,Azul,No,0,0,0,Subió al dock SIN engage,0,3,0,No,No,Subió al dock SIN engage,No,No,1,59,3,Sí,Un robot le chocó. No batallaba en agarrar las piezas.,"Conos, Cubos","Bottom Row, Middle Row",0,8,6,23,38.98%
+9213,TECUANI,24,Roja,No,0,0,0,No subió al dock,0,0,0,No,Sí,Park (Zona azul sin subir),No,No,1,54,2,Sí,"Jugó estrategia de transportista, no coloco objetos pero si los llevo a la comunidad en donde otro robot los coloco, la pinza probablemente se rompio",Cubos,Bottom Row,0,0,2,2,3.70%
+5133,PrepaTec - Blue Steel,33,Roja,No,1,0,0,No subió al dock,1,0,0,No,No,Subió al dock SIN engage,No,No,1,22,0,No,Mucha facilidad con human player,"Conos, Cubos",Bottom Row,0,0,6,11,50.00%
+3472,PrepaTec - Buluk,PrepaTec - Buluk,Roja,Sí,1,0,0,No subió al dock,0,0,0,No,No,Subió al dock CON engage,No,No,0,52,1,No,"Tuvo problemas de desconexion la mayor parte de la partida, al reconectar fue directo a dock","Conos, Cubos",Bottom Row,3,0,10,18,34.62%
+6608,ARCADIA,35,Azul,No,0,0,0,No subió al dock,2,0,0,No,No,Subió al dock CON engage,Sí,No,0,36,0,No,Se tardo mucho en moverse y perdio mucho tiempo al principio durante teleoperado,"Conos, Cubos",Bottom Row,0,0,10,14,38.89%
+6017,Cyberius,35,Roja,No,0,0,0,Subió al dock SIN engage,0,0,0,Sí,No,Subió al dock CON engage,No,No,0,0,0,Sí,No hizo nada durante el partido pero en el endgame el equipo consiguió poner a los 3 robots en la zona.,Cubos,Bottom Row,0,8,10,18,#¡DIV/0!
+8740,Quantum Force,35,Azul,No,0,0,0,No subió al dock,2,0,0,No,Sí,Subió al dock SIN engage,No,No,0,36,0,No,"El robot es pequeño y solo puede arrastrar las piezas, los drivers saben manejar bien al robot. Va a velocidad normal, es muy fácil que los robots le estorben.","Conos, Cubos",Bottom Row,0,0,6,10,27.78%
+9280,high altitude,35,Azul,No,0,0,0,No subió al dock,0,0,0,Sí,No,No,No,No,0,36,0,No,Se quedaba parado y a veces defendía,Ninguno,Bottom Row,0,0,0,0,0.00%
+3478,Lambot,36,Azul,Sí,0,0,0,No subió al dock,0,0,0,No,No,No,No,No,1,45,0,No,"Tuvo fallas, pero es rápido, y puede llegar al top row","Conos, Cubos",Top Row,3,0,0,5,11.11%
+4782,Borrebots,36,Roja,Sí,0,0,0,Subió al dock SIN engage,2,1,0,No,No,Subió al dock CON engage,No,No,1,48,2,Sí,Tuvo complicaciones agarrando los conos y cubos pero pudo generar una buena cantidad de puntos balanceándose del manera correcta en el dock.,"Conos, Cubos","Bottom Row, Middle Row",3,8,10,30,62.50%
+4403,ROULT,36,Azul,No,0,0,1,Subió al dock SIN engage,0,0,3,No,No,Subió al dock CON engage,No,No,1,45,0,No,"El robot va rápido y puede agarrar bien las piezas. A veces choca con los obstáculos y el docking station, se le cayeron 2 conos. Ayudo a un robot a subir al docking.","Conos, Cubos","Bottom Row, Middle Row, Top Row",0,8,10,39,86.67%
+9060,Prepa Tecmilenio - Hermosillo,36,Azul,No,0,0,0,No subió al dock,0,0,0,No,No,Subió al dock CON engage,No,No,1,45,0,No,rookie team. se le calleron 2 cables y una pieza. choca demasiado. NO PUSO PIEZAS,"Conos, Cubos",Bottom Row,0,0,10,10,22.22%
+3794,Tecmilenio WinT,37,Azul,No,0,0,0,No subió al dock,2,0,0,Sí,No,Subió al dock CON engage,No,No,0,48,2,Sí,Su pinza no funciona por lo que es un arrastrador,Cubos,Bottom Row,0,0,10,14,29.17%
+6106,Tecgear,37,Roja,Sí,1,0,0,No subió al dock,0,2,0,Sí,No,Subió al dock SIN engage,,,1,36,0,No,Tras poner los primeras 2 piezas ni hizo nada más que moverse en el centro,"Conos, Cubos","Bottom Row, Middle Row",3,0,6,20,55.56%
+3158,TECBOT,37,Azul,Sí,0,0,0,No subió al dock,1,1,0,No,No,Subió al dock CON engage,No,No,0,48,2,Sí,"esta bien. no es el mejor. muy preciso, pero le falta rapidez",Cubos,"Bottom Row, Middle Row",3,0,10,20,41.67%
+7546,MinerZ,37,Roja,Sí,0,0,0,No subió al dock,1,2,0,Sí,Sí,No,No,No,1,0,0,No,Tuvo dificultades para conseguir que sus los cubos se colocasen abajo porque casi siempre si salían,"Conos, Cubos","Bottom Row, Middle Row",3,0,0,13,#¡DIV/0!
+6348,HORUS,37,Azul,No,0,0,1,No subió al dock,1,1,1,No,No,Park (Zona azul sin subir),No,No,0,48,2,Sí,La pinza que tiene el robot es muy estorbosa para los otros robots al ser muy grande. Parece que a los drivers les falta práctica. Se tarda mucho al agarrar las piezas. Batalla más en agarrar los conos que los cubos. Agarraba piezas del bottom row y las subía a el top row.,"Conos, Cubos","Bottom Row, Middle Row, Top Row",0,0,2,18,37.50%
+4584,SentinelFox,38,Roja,No,1,0,0,No subió al dock,2,0,1,No,Sí,No,No,No,0,51,0,No,El robot fue muy lento cuando intento conseguir conos/cubos,"Conos, Cubos","Bottom Row, Middle Row, Top Row",0,0,0,12,23.53%
+4010,Nautilus,38,Azul,No,1,0,0,Subió al dock SIN engage,3,0,0,Sí,No,Subió al dock CON engage,No,No,2,68,3,Sí,mas de una vez choco con los robots de la otra alianza,Cubos,Bottom Row,0,8,10,27,39.71%
+9282,SINAVOLT,38,Azul,Sí,0,0,0,No subió al dock,3,0,0,Sí,No,Subió al dock CON engage,No,No,3,68,3,Sí,"Cuando ponía cubos en el bottom row siempre se salían de lugar y los tenía que volver a acomodar, en cierto punto aprovecho para defender a un robot de la alianza.",Cubos,"Bottom Row, Middle Row",3,0,10,21,30.88%
+5932,Quetzales,39,Azul,No,0,0,0,No subió al dock,1,0,0,No,No,Subió al dock CON engage,No,No,2,44,2,Sí,perdio mucho tiempo y se quedo parado. solo puso 1 pieza,Cubos,Bottom Row,0,0,10,12,27.27%
+7421,OVERTURE,39,Roja,No,0,1,0,No subió al dock,2,3,0,No,No,Subió al dock SIN engage,No,No,1,36,16,No,"Va rapido y puede agarrar las piezas rapidamente, las coloca de manera senclla","Conos, Cubos","Bottom Row, Middle Row",0,0,6,23,63.89%
+5959,Titanium Rams,39,Azul,No,0,0,0,No subió al dock,5,0,0,No,No,Park (Zona azul sin subir),No,No,2,66,2,Sí,"El robot es muy rápido, los drivers manejaban muy bien al robot. Se robó una pieza que llevaba otro robot de la alianza roja. Se enfocaba en crear links.",Cubos,Bottom Row,0,0,2,12,18.18%
+7421,Overture,39,Roja,No,0,0,0,No subió al dock,0,2,0,No,No,Subió al dock SIN engage,No,No,1,36,0,No,"Se les cayó un cono, su pinza no es muy estable","Conos, Cubos","Bottom Row, Middle Row, Top Row",0,0,6,12,33.33%
+4635,Botbusters,40,Azul,Sí,0,0,2,No subió al dock,0,0,4,Sí,No,Park (Zona azul sin subir),No,No,2,101,3,Sí,"muy rapido, muy preciso","Conos, Cubos","Bottom Row, Middle Row, Top Row",3,0,2,39,38.61%
+8741,Raccoons,40,Azul,No,0,0,0,No subió al dock,0,0,0,No,No,Subió al dock CON engage,No,No,2,101,3,Sí,"Parece que se les rompió la pinza, en general no tienen pinza y su robot no puede arrastrar tampoco.",Ninguno,Bottom Row,0,0,10,10,9.90%
+9060,Hermosillo,41,Roja,No,0,0,0,No subió al dock,1,0,0,No,No,Park (Zona azul sin subir),No,No,1,66,1,No,muy lentos,Cubos,Bottom Row,0,0,2,4,6.06%
+9213,TECUANI,41,Azul,No,0,0,0,No subió al dock,2,0,0,No,No,Subió al dock CON engage,No,No,2,99,3,Sí,"No hacía mucho, solo arrastraba cubos para acercarlos hacia sus aliados",Cubos,Bottom Row,0,0,10,14,14.14%
+3158,TECBOT,41,Azul,Sí,0,0,0,No subió al dock,1,1,0,No,No,Park (Zona azul sin subir),No,No,2,99,3,Sí,"Arrastra cono, su brazo batalla para agarrar.",Cubos,"Bottom Row, Middle Row, Top Row",3,0,2,12,12.12%
+6017,Cyberius,41,Azul,No,0,0,0,No subió al dock,4,0,0,No,Sí,Subió al dock CON engage,No,No,2,99,3,Sí,solo empuja,"Conos, Cubos",Bottom Row,0,0,10,18,18.18%
+6647,VOLTEC Robotics,41,Roja,No,1,0,0,Subió al dock CON engage,1,3,0,No,Sí,Subió al dock CON engage,No,No,1,99,3,Sí,"Iba rápido el robot, al inicio se tardo en agarrar una pieza pero ya después fue rápido. Se balanceó muy rápido en el docking.","Conos, Cubos","Bottom Row, Middle Row",0,12,10,36,36.36%
+3794,Prepa Tecmilenio WinT,41,Roja,Sí,0,0,0,No subió al dock,3,0,0,Sí,No,Subió al dock CON engage,No,,1,66,1,No,defendia mucho y les acercaba los conos a un robot para ponerlo abajo o aveces los ponia el,Conos,Bottom Row,3,0,10,21,31.82%
+5133,Blue Steel,42,Azul,No,1,0,0,No subió al dock,2,0,0,No,No,Park (Zona azul sin subir),No,No,2,92,3,Sí,pinza delgada y debil,Cubos,Bottom Row,0,0,2,9,9.78%
+6702,Stingbots,42,Azul,Sí,0,0,0,No subió al dock,2,1,0,Sí,Sí,Subió al dock CON engage,Sí,No,2,92,3,Sí,No era muy rápido y solo ponía en mid y high,Cubos,"Bottom Row, Middle Row",3,0,10,22,23.91%
+6106,Prepa Tec TecGear,42,Roja,Sí,0,0,0,No subió al dock,0,0,0,No,No,Subió al dock SIN engage,No,,0,24,0,No,en el automo salio del community y agarro los conos pero no los coloco,Conos,Bottom Row,3,0,6,11,45.83%
+8356,ARMY ROBOT TECHNOLOGY,42,Roja,Sí,0,0,0,No subió al dock,2,0,0,Sí,No,Subió al dock SIN engage,No,No,0,24,0,No,se mueve muy lento. solo puso dos piezas,Conos,Bottom Row,3,0,6,15,62.50%
+6348,HORUS,42,Roja,No,0,0,1,No subió al dock,0,0,0,No,No,No,No,No,0,24,0,No,Se movió en el modo autónomo y después no se movió en toda la partida,Cubos,"Bottom Row, Middle Row, Top Row",0,0,0,6,25.00%
+3478,Lambot,42,Azul,No,0,0,0,Subió al dock SIN engage,0,3,1,No,No,Subió al dock CON engage,No,No,2,92,3,Sí,"Es rápido, se especializa en conos y cubos en top y mid","Conos, Cubos","Bottom Row, Middle Row, Top Row",0,8,10,32,34.78%
+4403,Roult,43,Azul,No,0,0,1,Subió al dock SIN engage,0,0,1,Sí,Sí,No,Sí,No,1,59,2,Sí,Agarra las piezas mal y se le caen,"Conos, Cubos","Bottom Row, Middle Row, Top Row",0,8,0,19,32.20%
+3472,Buluk,43,Roja,Sí,0,0,0,No subió al dock,0,2,0,No,No,Subió al dock CON engage,No,No,0,35,0,No,"Se tarda mucho en soltar las piezas, se resbala mucho en el docking, se tardaba mucho en ir por las piezas.","Conos, Cubos","Bottom Row, Middle Row",3,0,10,21,60.00%
+7725,Prepa Tec NUTS & VOLTS,43,Roja,No,0,0,0,No subió al dock,1,0,0,Sí,Sí,Subió al dock CON engage,No,,0,35,0,No,"empujaba las piezas, principalmente los cubos y dejo un cubo en el bottom row","Conos, Cubos",Bottom Row,0,0,10,12,34.29%
+3526,Blue ignition,43,Azul,No,0,0,0,No subió al dock,2,0,0,No,No,No,No,No,1,59,2,Sí,Su robot dejó de funcionar en media partida,Cubos,Bottom Row,0,0,0,4,6.78%
+6676,Thunder Hawks,43,Azul,Sí,0,0,0,No subió al dock,0,0,0,Sí,Sí,Subió al dock CON engage,No,No,1,59,2,Sí,arrastraba conos hacia su alianza,Ninguno,Bottom Row,3,0,10,15,25.42%
+9280,High altitude Robotics,43,Roja,No,0,0,0,No subió al dock,0,0,0,Sí,No,No,Sí,No,0,35,0,No,Solo defendio,Ninguno,Bottom Row,0,0,0,0,0.00%
+7102,Daedalus,44,Azul,No,1,0,0,Subió al dock SIN engage,1,1,1,No,Sí,Subió al dock CON engage,No,No,0,46,1,No,lento en poner y agarrar piezas,"Conos, Cubos","Bottom Row, Middle Row, Top Row",0,8,10,31,67.39%
+4782,borrebots,44,Azul,Sí,0,0,0,No subió al dock,0,0,0,No,No,Subió al dock CON engage,No,No,0,46,1,No,"no hacia nada, solo se estaciono al final",Ninguno,Bottom Row,3,0,10,15,32.61%
+4010,Nautilus,44,Roja,Sí,0,0,0,No subió al dock,7,0,0,No,No,Subió al dock CON engage,No,,3,104,3,Sí,"es muy rapido, agarra con eficaz los cubos pero solo puedo ponerlos en bottom row",Cubos,Bottom Row,3,0,10,29,27.88%
+6832,SteamMex,44,Azul,No,0,0,0,No subió al dock,0,0,0,No,No,No,No,No,0,46,46,No,Su robot no funcionó durante la partida.,"Conos, Cubos","Bottom Row, Middle Row, Top Row",0,0,0,0,0.00%
+4635,Botbusters,44,Roja,No,0,0,1,Subió al dock CON engage,2,0,4,No,No,Subió al dock CON engage,No,No,3,104,3,Sí,"Mecanismos muy eficaces. Al iniciar, siempre avientan un cubo hace su community y luego agarran un cono y lo ponen. Luego ponen el cubo aventado.","Conos, Cubos","Bottom Row, Middle Row, Top Row",0,12,10,52,50.00%
+8293,Stratech,45,Roja,No,0,0,0,No subió al dock,3,0,0,Sí,No,Subió al dock CON engage,No,,2,66,2,Sí,acomodaba puros cubitos pero le costaba agarrarlos,Cubos,Bottom Row,0,0,10,16,24.24%
+8740,Quantum Force,45,Roja,No,0,0,0,No subió al dock,3,0,0,Sí,No,Subió al dock CON engage,No,No,3,66,2,Sí,En el inicio sabían cómo salir del community y 45 segundos antes ya estaban en el dock,Cubos,Bottom Row,0,0,10,16,24.24%
+6608,Arcadia,45,Azul,No,0,0,0,No subió al dock,1,0,0,No,Sí,Subió al dock CON engage,No,No,2,52,0,No,Arrastra y no hace mucho más,Cubos,"Bottom Row, Middle Row",0,0,10,12,23.08%
+2283,Panteras,45,Azul,No,0,1,0,No subió al dock,4,0,0,No,No,No,No,No,2,52,0,No,Se tardan,"Conos, Cubos","Bottom Row, Middle Row",0,0,0,12,23.08%
+7546,MinerZ,45,Azul,Sí,0,1,0,No subió al dock,0,1,0,No,No,No,No,No,2,52,0,No,Su robot se quedó parado en medio de la partida,"Conos, Cubos","Bottom Row, Middle Row, Top Row",3,0,0,12,23.08%
+8741,Raccons,46,Azul,No,0,0,0,No subió al dock,0,0,0,Sí,No,Subió al dock CON engage,No,No,0,26,0,No,"Fuera de hacer engage con charging stations, no pueden hacer nada más",Ninguno,Bottom Row,0,0,10,10,38.46%
+4775,Aztech Robotics,46,Roja,Sí,0,1,0,No subió al dock,1,0,0,No,No,Subió al dock CON engage,No,No,1,67,3,Sí,Su alianza le estorbó durante toda la partida y solo pudo poner uno en teleoperado. Se tardo mucho en soltar esa pieza.,"Conos, Cubos","Bottom Row, Middle Row",3,0,10,21,31.34%
+4775,Aztech Robotics,46,Roja,No,0,1,0,Subió al dock SIN engage,1,1,0,Sí,No,Subió al dock CON engage,No,,1,67,3,Sí,se movia lento pero eficaz,"Conos, Cubos","Bottom Row, Middle Row",0,8,10,27,40.30%
+3478,Lambot,47,Roja,No,0,0,0,No subió al dock,0,3,0,No,No,Subió al dock CON engage,No,,2,101,2,Sí,es rapido y agarra conos con facilidad pero aveces se les cae por la velocidad,"Conos, Cubos","Bottom Row, Middle Row",0,0,10,19,18.81%
+3478,LamBot,47,Roja,No,0,0,0,No subió al dock,0,3,1,No,No,Subió al dock CON engage,No,No,2,101,2,Sí,Muy buena partida,"Conos, Cubos","Bottom Row, Middle Row",0,0,10,24,23.76%
+6170,Vitronik,47,Azul,No,0,0,1,No subió al dock,2,0,0,No,No,Park (Zona azul sin subir),No,No,2,30,0,No,Solo anota en low,"Conos, Cubos","Bottom Row, Middle Row, Top Row",0,0,2,12,40.00%
+6017,Cyberius,48,Azul,Sí,0,0,0,No subió al dock,0,0,0,Sí,No,Subió al dock CON engage,No,No,2,126,3,Sí,Solo arrastra inclusive si tiene mecanismos,"Conos, Cubos",Bottom Row,3,0,10,15,11.90%
+3526,Blue Ignition,48,Roja,No,0,0,0,No subió al dock,3,0,0,No,No,Park (Zona azul sin subir),No,No,0,126,3,No,se quedo parado la mayoría del tiempo pero movio 3 cubo,Cubos,Bottom Row,0,0,2,8,6.35%
+6608,Arcadia,2,Azul,No,0,0,0,No subió al dock,3,0,0,Sí,No,No,Sí,No,2,50,0,No,Solo arrastra aunque tiene mecanismos,"Conos, Cubos",Bottom Row,0,0,0,6,12.00%
+3472,Buluk,2,Azul,Sí,0,0,0,No subió al dock,2,0,0,No,No,No,No,No,1,50,0,No,Dejobde funcionar su brazo al inicio de la partida,Cubos,Bottom Row,3,0,0,9,18.00%
+3478,Lambot,2,Roja,No,0,0,0,Subió al dock SIN engage,1,4,1,No,No,Subió al dock SIN engage,No,No,2,71,3,Sí,es rapido para agarrar conos,"Conos, Cubos","Bottom Row, Middle Row, Top Row",0,8,6,33,46.48%
+3794,Wint,2,Roja,Sí,0,0,0,No subió al dock,0,0,0,Sí,No,Subió al dock CON engage,Sí,No,2,71,3,Sí,Era muy defensivo y rápido. No puso piezas pero lo hizo más difícil para la otra alianza,Ninguno,Bottom Row,3,0,10,15,21.13%
+4584,SentinelFox,2,Azul,No,0,0,1,No subió al dock,3,0,0,Sí,No,No,Sí,No,2,50,0,No,"No agarro de el human, esperaba a que o",Cubos,"Bottom Row, Top Row",0,0,0,12,24.00%
+6832,STEAMex,3,Roja,Sí,0,0,0,No subió al dock,0,1,3,No,Sí,Subió al dock CON engage,No,,1,47,0,No,coloca puro cubo en la parte de arriba,Cubos,"Middle Row, Top Row",3,0,10,33,70.21%
+6106,TecGear,3,Azul,Sí,0,0,0,No subió al dock,0,2,0,No,No,Subió al dock CON engage,No,No,1,56,3,Sí,Es lento agarrando las game pieces,"Conos, Cubos","Bottom Row, Middle Row",3,0,10,21,37.50%
+6017,Cyberius,3,Azul,No,0,0,0,Subió al dock SIN engage,5,0,0,No,No,Subió al dock CON engage,No,No,1,56,35,Sí,"No funciona el brazo asi que solo arrastraron , son swerve","Conos, Cubos",Bottom Row,0,8,10,28,50.00%
+9280,High Altitude,3,Azul,Sí,0,0,0,No subió al dock,0,0,0,No,No,No,No,No,1,56,3,Sí,"No se movió, salió de el área en autónomo pero durante el teleop solo se movió un segundo y dejo de funcionar",Ninguno,Bottom Row,3,0,0,5,8.93%
+5932,Quetzales,3,Roja,Sí,0,0,0,No subió al dock,0,0,0,No,No,Park (Zona azul sin subir),No,No,1,37,0,No,Al inicio del match se movio en la dirección opuesta de donde necesitaba poner el cubo que tenía preloaded. Por la gran mayoría del match quedó sin moverse.,Ninguno,Bottom Row,3,0,2,7,18.92%
+5133,Blue Steel,49,Azul,No,0,0,0,No subió al dock,0,0,0,Sí,Sí,No,No,No,1,40,2,Sí,"Enfocado en defensa mas que en colocar piezas, como que queria agarrar, se la quitaban, y se dio por vencido y defendio. Movimiento algo torpe","Conos, Cubos",Bottom Row,0,0,0,0,0.00%
+7546,Minerz,49,Azul,Sí,0,1,0,No subió al dock,1,2,0,No,No,Park (Zona azul sin subir),No,No,1,40,2,Sí,"Coloca piezas en medio de manera consistente, pero ni siquiera intento subir al charge station",Cubos,"Bottom Row, Middle Row",3,0,2,19,47.50%
+8740,Quantum Force,49,Roja,No,0,0,0,No subió al dock,1,0,0,No,No,Subió al dock CON engage,No,No,0,33,0,No,"Es un robot arrastrasor, es lento al momento de agarrar los game pieces","Conos, Cubos",Bottom Row,0,0,10,12,36.36%
+2283,Panteras,49,Roja,No,0,0,1,No subió al dock,0,1,0,No,No,Subió al dock CON engage,No,No,0,33,0,No,Su pinza tambalea mucho y tarda mucho en agarrar las piezas.,"Conos, Cubos","Bottom Row, Middle Row, Top Row",0,0,10,19,57.58%
+9060,Desert Robotics,49,Roja,Sí,0,0,0,No subió al dock,0,0,0,No,No,Subió al dock SIN engage,No,No,0,33,0,No,no hace nada,Ninguno,Bottom Row,3,0,6,11,33.33%
+3472,Buluk,49,Azul,No,0,0,0,No subió al dock,2,1,0,No,No,Subió al dock CON engage,No,No,1,40,2,Sí,se sube muy facil a la charged station,Cubos,"Bottom Row, Middle Row",0,0,10,17,42.50%
+6608,Arcadia,50,Roja,No,0,0,0,No subió al dock,1,0,0,No,No,Subió al dock SIN engage,,Sí,1,30,0,No,"Su robot es un arrastrador, su estrategia fue acercar game pieces a sus aliados","Conos, Cubos",Bottom Row,0,0,6,8,26.67%
+3933,Taman Keet,50,Azul,Sí,0,0,1,No subió al dock,1,1,2,No,Sí,Subió al dock SIN engage,Sí,,3,87,2,Sí,"tarda mucho en agarrar la cosas, se subio con facilidad al charged pero nos e balanceo, dejaba las piezas abajo para hacer links","Conos, Cubos","Bottom Row, Middle Row, Top Row",3,0,6,32,36.78%
+9213,Tecunai,50,Roja,No,0,0,0,No subió al dock,1,0,0,No,No,No,No,No,1,30,0,No,En los primeros 5 Segundos de trabo y ya no se movió,Cubos,Bottom Row,0,0,0,2,6.67%
+6832,Steamex,50,Azul,No,0,0,0,Subió al dock CON engage,0,2,0,No,No,Subió al dock CON engage,,,1,87,2,Sí,"La pinza que agarra las piezas tarda mucho en agarrar las piezas, así como necesita mucho tiempo para soltarlas. También es tardado en subirse a la charging station, pero si se puede engagear.","Conos, Cubos","Bottom Row, Middle Row, Top Row",0,12,10,28,32.18%
+5932,Quetzales,50,Roja,No,0,0,0,No subió al dock,5,0,0,No,No,Subió al dock SIN engage,No,No,1,30,0,No,arrastrador lento,Cubos,Bottom Row,0,0,6,16,53.33%
+4403,ROULT - Peñoles,50,Azul,No,0,1,0,No subió al dock,0,3,3,No,Sí,Park (Zona azul sin subir),No,No,3,87,2,Sí,"Rapidos, agiles, a veces se les caia una pieza pero usualmente no. Se basan en dejar tantas piezas pueden. Tendencia a metersele a su propio equipo?? Pero no les marcaron ningun foul. Prefieren top row, usan su autonomo para poner una pieza. Luego como que intento salir de community pero se estrello","Conos, Cubos","Bottom Row, Middle Row, Top Row",0,0,2,30,34.48%
+4775,Aztech Robotics,51,Roja,No,0,1,0,Subió al dock SIN engage,1,2,0,No,No,No,No,No,1,0,0,No,Se canceló la partida porque rompieron la charging station,"Conos, Cubos","Bottom Row, Middle Row",0,8,0,20,#¡DIV/0!
+9280,High Altitude Robotics,51,Azul,Sí,0,0,0,No subió al dock,0,0,0,Sí,No,Subió al dock SIN engage,Sí,,0,0,0,No,"no hizo nada, siempre tuvo el cubo y avecws defendia, nadie gano(se cancelo)",Cubos,Bottom Row,3,0,6,11,#¡DIV/0!
+7102,Daedalus,51,Azul,No,0,1,0,Subió al dock SIN engage,1,2,0,No,Sí,Park (Zona azul sin subir),No,No,0,0,0,No,"Se cancelo la partida jsjs pero se dedicaban al middle row, aventaban los cubos y con el brazo dejaban los conos. Suficientemente rapidos y en su mayoria precisos","Conos, Cubos","Bottom Row, Middle Row",0,8,2,22,#¡DIV/0!
+5959,Titanium rams,51,Azul,Sí,1,0,0,No subió al dock,5,0,2,No,Sí,Park (Zona azul sin subir),,,2,0,0,No,"Alcanzo a hacer 2 links en línea de abajo aunque lo defendieron, tiene potencial, pero se enfoca en hacer lo de abajo. Se canceló","Conos, Cubos","Bottom Row, Middle Row, Top Row",3,0,2,30,#¡DIV/0!
+4782,Borrebots,51,Roja,Sí,0,0,0,No subió al dock,0,2,0,Sí,Sí,Subió al dock SIN engage,Sí,No,1,40,0,No,es inestable,"Conos, Cubos","Bottom Row, Middle Row",3,0,6,17,42.50%
+7102,Daedalus,51,Azul,No,1,0,0,Subió al dock SIN engage,0,2,0,Sí,Sí,Subió al dock CON engage,No,No,2,70,2,Sí,"Redo de la match 51. Alcanzaba a duras penas el middle row, pinza eficaz, lo defendieron bastantito","Conos, Cubos","Bottom Row, Middle Row",0,8,10,27,38.57%
+5959,Titanium rams,51,Azul,Sí,1,0,0,No subió al dock,4,0,0,No,Sí,Subió al dock CON engage,,,2,70,2,Sí,"De nuevo, fue rápido haciendo las puntos en la zona de abajo, sin embargo, esta vez se enfocó en llegar que engaged","Conos, Cubos","Bottom Row, Middle Row, Top Row",3,0,10,26,37.14%
+3794,Prepa Tecmilenio WinT,51,Roja,Sí,0,0,0,No subió al dock,2,0,0,Sí,No,Subió al dock SIN engage,No,No,1,40,0,No,Tiene una muy buena defensa. Se le salió una pieza de su robot a media partida.,"Conos, Cubos","Bottom Row, Middle Row",3,0,6,15,37.50%
+9280,High Altitude Robotics,51,Azul,Sí,0,0,1,No subió al dock,0,0,0,Sí,No,Park (Zona azul sin subir),,,2,70,2,Sí,fue directo a human player,Cubos,"Middle Row, Top Row",3,0,2,13,18.57%
+4775,Aztech Robotics,51,Roja,No,0,0,0,Subió al dock SIN engage,0,0,0,No,No,No,Sí,No,0,40,0,No,"Se le atasco un cono en su robot, entonces no podían agarrar más","Conos, Cubos",Bottom Row,0,8,0,8,20.00%
+8734,Prepa Tecmilenio BATS,52,Azul,Sí,0,0,0,Subió al dock SIN engage,1,0,0,Sí,No,Subió al dock CON engage,No,,3,2,82,Sí,"empujaba cubitos, defendio, hizo 3 link","Conos, Cubos",Bottom Row,3,8,10,25,1250.00%
+5887,Imperator,52,Azul,Sí,0,1,0,No subió al dock,2,1,0,No,Sí,Park (Zona azul sin subir),,,1,82,2,Sí,"Es muy lento, y el robot batalla en agarrar las piezas, por el tamaño del robot es difícil que esté pase a través de la cancha, pues lo estorban muy fácilmente, así como este puede estorbar a su equipo",Cubos,"Bottom Row, Middle Row",3,0,2,18,21.95%
+6702,StingBots,52,Roja,Sí,0,1,0,No subió al dock,3,0,0,No,No,No,No,No,2,68,0,No,Tardaba en entrar al community y en el endgame no hizo nada,Cubos,"Bottom Row, Middle Row",3,0,0,15,22.06%
+7725,Nuts ans Bolts,52,Roja,No,0,0,0,No subió al dock,0,0,0,No,No,Subió al dock CON engage,,,2,68,0,No,Su robot no es eficiente agarrando game pieces,"Conos, Cubos","Bottom Row, Middle Row",0,0,10,10,14.71%
+6106,Tecgear,53,Azul,Sí,1,0,0,No subió al dock,0,1,0,No,No,Subió al dock CON engage,,,0,44,1,No,"El robot se tardó mucho en poder dejar una pieza, la pinza no lograr centrarse para poder dejarla y es lente","Conos, Cubos","Bottom Row, Middle Row",3,0,10,21,47.73%
+8293,Startech,53,Roja,No,0,0,0,No subió al dock,3,0,0,No,No,Subió al dock CON engage,No,No,1,44,1,Sí,"Robot chasis que solo arrastra, cuando lo tapan se queda ahí en vez de buscar otro lado a donde ir","Conos, Cubos",Bottom Row,0,0,10,16,36.36%
+6676,Thunder Hawks,53,Azul,No,0,0,0,No subió al dock,0,0,0,Sí,Sí,Park (Zona azul sin subir),No,,0,44,1,Sí,se quedo tiezo (empataron),"Conos, Cubos",Bottom Row,0,0,2,2,4.55%
+8741,Raccoons,53,Roja,No,0,0,0,No subió al dock,0,0,0,No,No,Subió al dock SIN engage,No,No,1,44,1,Sí,Su robot es arrastrador.,Cubos,Bottom Row,0,0,6,6,13.64%
+9282,SINAVOLT,53,Roja,Sí,0,0,0,No subió al dock,3,1,0,No,No,No,Sí,No,1,32,1,Sí,"Empate, subieron al dock pero los empujaron y no supieron que hacer, ni siquiera se quedaron en la zona, son lentos",Cubos,"Bottom Row, Middle Row, Top Row",3,0,0,14,43.75%
+6647,Voltecc,54,Azul,No,1,0,0,Subió al dock CON engage,2,0,0,No,No,Subió al dock CON engage,,,1,66,1,No,Se buscaba el ránking point,"Conos, Cubos","Bottom Row, Middle Row, Top Row",0,12,10,29,43.94%
+5133,Blue Steel,54,Roja,No,0,0,0,No subió al dock,1,0,0,No,No,Subió al dock CON engage,No,No,3,110,3,Sí,"Su robot es un arrastrador, pero aveces se le atora .",Cubos,Bottom Row,0,0,10,12,10.91%
+4635,Botbusters,54,Roja,No,0,0,1,Subió al dock CON engage,0,0,3,No,No,Subió al dock CON engage,No,No,3,102,1,Sí,Tuvieron una falla en recoger un cubo con human player,"Conos, Cubos","Bottom Row, Middle Row, Top Row",0,12,10,43,42.16%
+4584,SentinelFox,54,Azul,No,0,1,0,No subió al dock,0,0,0,Sí,No,Park (Zona azul sin subir),Sí,No,1,0,1,No,El robot tiene muchas dificultades para recoger piezas del human player,Cubos,"Bottom Row, Middle Row",0,0,2,6,#¡DIV/0!
+3933,Taman Keet,54,Azul,Sí,0,0,1,No subió al dock,0,1,3,Sí,No,Subió al dock CON engage,,,0,66,1,No,pone piezas arriba y defiende,"Conos, Cubos","Middle Row, Top Row",3,0,10,39,59.09%
+4403,ROULT-peñoles,54,Roja,Sí,0,0,0,No subió al dock,0,2,3,No,Sí,Subió al dock CON engage,No,No,3,110,3,Sí,"Muy rápido, se le cayó un cono una vez y tiene un mecanismo para poder levantar lo y volverlo a recoger","Conos, Cubos","Bottom Row, Middle Row, Top Row",3,0,10,36,32.73%
+4010,Nautilus,55,Azul,No,1,0,0,Subió al dock CON engage,5,0,0,Sí,No,Subió al dock CON engage,,,2,73,3,Sí,"Este equipo hizo rápidamente los puntos de la parte de abajo y se enfocó en estorbar y bloquear a los demás, bastante buen defensor",Cubos,Bottom Row,0,12,10,35,47.95%
+9213,TECUANI,55,Azul,No,1,0,0,No subió al dock,3,0,0,No,Sí,Subió al dock CON engage,No,,2,73,3,Sí,"empujaba los conos, cubos y se subio al charged station","Conos, Cubos",Bottom Row,0,0,10,19,26.03%
+3794,WinT,55,Azul,Sí,0,0,0,No subió al dock,0,0,0,Sí,No,Subió al dock CON engage,No,No,2,73,3,Sí,"El robot solo defendió, en autónomo trato de colocar un cono pero se salió de la zona. No utilizó su brazo en ningún momento por lo que solo defendía y trataba de empujar piezas",Ninguno,Bottom Row,3,0,10,15,20.55%
+5959,Titanium Rams,55,Roja,Sí,0,0,0,No subió al dock,2,0,0,Sí,Sí,Subió al dock CON engage,Sí,No,1,51,1,No,"Tiene buen mecanismo pero solo lo utilizó para bottom, es muy rápido y ágil pero cuando lo bloquearon cometió foul","Conos, Cubos",Bottom Row,3,0,10,19,37.25%
+4782,PrepaTec - Borrebots,55,Roja,Sí,0,0,0,No subió al dock,4,0,0,No,Sí,Subió al dock CON engage,No,No,1,51,1,No,"Inicia con un cubo, en autonomo lo suelta pero no cuenta para puntos, tuvo unas dificultades al agarrar un cono y posteriormente se rompe la pinza, por lo que estuvieron arrastrando conos y cubos el resto de la partida","Conos, Cubos",Bottom Row,3,0,10,23,45.10%
+8740,Quantum Face,56,Azul,Sí,0,0,0,No subió al dock,1,0,0,No,Sí,Subió al dock CON engage,Sí,,1,69,3,Sí,no podia agarrar los cubos ni los conos pero lo intentaba,"Conos, Cubos",Bottom Row,3,0,10,17,24.64%
+3478,Lambot,56,Azul,No,0,0,1,Subió al dock CON engage,1,4,0,No,Sí,Subió al dock CON engage,,,1,69,3,Sí,"El equipo logró hacer links incluso cuando lo estaban defendiendo, ayuda a los demás a subirse con mayor facilidad a la rampa y es consistente con los cubos, sin embargo, este no intento poner conos en la parte de arriba","Conos, Cubos","Bottom Row, Middle Row, Top Row",0,12,10,42,60.87%
+8256,Army Robot technology,56,Roja,No,0,0,0,No subió al dock,1,0,0,Sí,No,No,Sí,No,0,30,0,No,no hizo mucho después del primer cubo,"Conos, Cubos","Bottom Row, Middle Row, Top Row",0,0,0,2,6.67%
+8734,BATS,53,Azul,Sí,0,0,0,No subió al dock,2,0,0,No,No,Park (Zona azul sin subir),No,No,1,69,3,Sí,"El robot se dejó de mover por una gran parte del tiempo, el equipo estaba hablando con el árbitro para solucionar la situación pero nada cambio a lo largo del partido",Conos,Bottom Row,3,0,2,11,15.94%
+4775,Aztech Robotics,56,Roja,No,0,0,0,No subió al dock,0,3,1,No,No,Park (Zona azul sin subir),No,No,1,30,0,No,"Inicia con un cubo y lo levanta, sin soltarlo, estrategia con human player muy buena, pues suelta el cono directo en la garra/pinza, prefiere conos","Conos, Cubos","Middle Row, Top Row",0,0,2,16,53.33%
+6694,Innobotics,57,Roja,Sí,0,0,0,No subió al dock,0,1,3,No,No,Subió al dock CON engage,No,No,1,65,2,Sí,"swerve, batalla en agarrar conos","Conos, Cubos","Bottom Row, Middle Row, Top Row",3,0,10,33,50.77%
+5932,Quetzales,57,Azul,Sí,0,0,0,No subió al dock,3,0,0,No,No,Subió al dock CON engage,,,1,42,0,No,"Se enfoco en llevar las piezas a su área, sin embargo, este fue lento e indeciso. Perdió tiempo sin hacer nada en el centro.","Conos, Cubos",Bottom Row,3,0,10,21,50.00%
+7546,MinerZ,57,Azul,Sí,0,0,0,No subió al dock,2,2,0,No,No,Subió al dock CON engage,No,No,0,42,0,No,"El robot fue muy ágil, aunque a veces se le complicaba colocar las piezas.","Conos, Cubos","Bottom Row, Middle Row",3,0,10,25,59.52%
+6676,Thunder Hawks,57,Azul,No,0,0,0,No subió al dock,2,0,0,Sí,No,Park (Zona azul sin subir),No,,0,42,0,No,es rápido pero se quedo quieto por un largo tiempo,"Conos, Cubos",Bottom Row,0,0,2,6,14.29%
+8293,startech,58,Roja,Sí,0,0,0,No subió al dock,3,0,0,No,No,Subió al dock CON engage,No,No,2,68,1,No,se le acabaron los espacios por ser solo arrastrador,"Conos, Cubos","Bottom Row, Middle Row, Top Row",3,0,10,21,30.88%
+7102,PrepaTec - Daedalus,57,Roja,No,0,0,0,Subió al dock SIN engage,0,1,0,No,No,Subió al dock SIN engage,No,No,1,65,2,Sí,En general estable,Cubos,Middle Row,0,8,6,17,26.15%
+6348,HORUS,58,Azul,Sí,0,0,1,No subió al dock,1,0,3,No,No,Subió al dock CON engage,No,,1,75,3,Sí,puede poner conos/cubos on the top row con faciliidad y su tecnica para colocar las piezas es buena,"Conos, Cubos","Bottom Row, Middle Row, Top Row",3,0,10,38,50.67%
+7725,Nutz and voltz,58,Azul,Sí,0,0,0,No subió al dock,2,0,0,No,Sí,Subió al dock CON engage,,,1,75,3,Sí,Por alguna razón de enfoco en hacer las piezas de abajo,"Conos, Cubos","Bottom Row, Middle Row, Top Row",3,0,10,19,25.33%
+9282,Sinavolt,58,Azul,Sí,1,0,0,Subió al dock CON engage,2,0,0,No,Sí,Park (Zona azul sin subir),No,No,1,75,3,Sí,"El robot tuvo complicaciones agarrando las piezas para subirlas a otro nivel, se le cayeron más de 3 veces la misma pieza intentando subirlo al otro nivel",Cubos,Bottom Row,3,12,2,26,34.67%
+3526,Blue Ignition,57,Roja,No,0,0,0,No subió al dock,0,0,0,No,No,Park (Zona azul sin subir),No,No,1,65,2,Sí,no se movió en todo el match,Ninguno,Bottom Row,0,0,2,2,3.08%
+6017,PrepaTec - Cyberius + Abtomat + Rockin Robots,58,Roja,Sí,0,0,0,No subió al dock,3,0,0,No,No,Subió al dock CON engage,No,No,3,68,1,No,"Inicio con cubo y luego lo suelta, va hacia adeltante y atras en auto hasta que sale del community, arrastro todas las piezas, no utilizo su pinza/garra","Conos, Cubos",Bottom Row,3,0,10,21,30.88%
+5887,IMPERATOR,59,Azul,Sí,0,0,0,No subió al dock,0,0,0,Sí,No,Subió al dock SIN engage,No,,1,33,3,Sí,defendio e hizo que botbuster perdier,Ninguno,"Bottom Row, Middle Row",3,0,6,11,33.33%
+4635,Botbusters,58,Roja,No,0,0,1,No subió al dock,0,0,0,Sí,No,Park (Zona azul sin subir),No,No,0,30,0,No,Se les cayeron algunas piezas durante el juego y por eso casi no se movieron,"Conos, Cubos","Bottom Row, Middle Row, Top Row",0,0,2,8,26.67%
+3472,Buluk,59,Roja,Sí,0,0,0,No subió al dock,2,0,0,No,No,No,No,No,0,30,0,No,no jugo bien apenas puso hasta abajo,"Conos, Cubos",Bottom Row,3,0,0,9,30.00%
+6170,Prepa Tecmilenio Vitronik,59,Roja,No,0,0,1,No subió al dock,1,0,0,No,No,Subió al dock SIN engage,No,No,0,32,0,No,"Inicio con cono, la pinza fue lenta y el robot fue inestable en multiples ocasiones",Conos,"Bottom Row, Top Row",0,0,6,14,43.75%
+7421,OVERTURE,60,Azul,Sí,0,0,0,No subió al dock,0,5,0,No,No,Park (Zona azul sin subir),No,,2,55,2,Sí,solo colocaba conos en em middle row,"Conos, Cubos","Middle Row, Top Row",3,0,2,22,40.00%
+9280,High Altitude Robotics,60,Azul,No,0,0,1,Subió al dock SIN engage,0,0,0,No,No,Subió al dock SIN engage,No,No,2,55,2,Sí,"Tiene problemas de balance, se quedó quieto durante una gran parte del partido",Cubos,"Bottom Row, Middle Row, Top Row",0,8,6,20,36.36%
+3158,TECBOT,60,Roja,No,0,1,0,No subió al dock,3,0,0,No,No,Park (Zona azul sin subir),No,No,2,36,0,No,"al final un robot no los dejo subirse, se quedo atorado en la balanza en la mitad del match","Conos, Cubos","Bottom Row, Middle Row",0,0,2,12,33.33%
+6702,Stingbots,60,Azul,Sí,0,1,0,No subió al dock,2,1,0,No,No,Subió al dock SIN engage,No,No,2,55,2,Sí,Sus pinza es muy pesada y batalla en cargar los conos que están acostados.,"Conos, Cubos","Bottom Row, Middle Row",3,0,6,22,40.00%
+8741,Racoons,60,Roja,No,0,0,0,No subió al dock,0,0,0,Sí,No,No,No,No,2,36,0,No,"Sin autonomo, solo pueden arrastrar pero su chasis tiene algo y se veia forzado porque apenas se movian y el robot temblaba","Conos, Cubos",Bottom Row,0,0,0,0,0.00%
+4854,SentinelFox Engineering,60,Roja,No,0,1,0,No subió al dock,2,0,0,No,No,Park (Zona azul sin subir),No,No,2,36,0,No,"Inicio con un cubo que puso en middle en auto, tuvo problemas con la pinza y tuvo que arrastrar las piezas","Conos, Cubos","Bottom Row, Middle Row",0,0,2,10,27.78%
+8734,BATS,61,Roja,Sí,0,0,0,No subió al dock,2,0,0,No,No,Subió al dock CON engage,No,No,3,92,3,Sí,"Muy apenas arrastra cubos y conos, la ponza no le sirve","Conos, Cubos",Bottom Row,3,0,10,19,20.65%
+4775,Aztech robotics,61,Azul,Sí,0,1,0,No subió al dock,2,0,0,No,No,No,,,0,60,1,No,El robot dejó de moverse en la parte de en medio. No es consistente,"Conos, Cubos","Bottom Row, Middle Row",3,0,0,13,21.67%
+7546,MinerZ,61,Azul,No,0,0,0,No subió al dock,0,1,0,Sí,Sí,No,No,No,0,60,1,No,a la mitad del match se quedo tiezo,Conos,"Bottom Row, Middle Row",0,0,0,3,5.00%
+4775,Aztech Robotics,61,Azul,Sí,0,0,0,No subió al dock,1,1,0,No,Sí,Subió al dock CON engage,Sí,No,0,60,1,No,"El robot fue defendido muy bien por lo que se hizo difícil completar puntos, además se le había quedado atorado un cubo dentro del robot por lo que dificultó movilidad",Cubos,"Bottom Row, Middle Row",3,0,10,20,33.33%
+4010,PrepaTec - Nautilus,61,Roja,No,1,0,0,Subió al dock CON engage,4,0,0,Sí,No,Subió al dock CON engage,Sí,No,3,92,3,Sí,"Muy rapido, arrastra solo cubos, despues de completar todos los links en bottom se fue a defender",Cubos,Bottom Row,0,12,10,33,35.87%
+8740,Quantum Force,62,Roja,Sí,0,0,0,No subió al dock,2,0,0,No,No,No,Sí,No,0,46,0,No,"No ponen cubos rapido, no los saben acomodar",Cubos,Bottom Row,3,0,0,9,19.57%
+5932,Tecmilenio - Quetzales,62,Azul,No,0,0,0,No subió al dock,1,0,0,Sí,No,Subió al dock CON engage,No,No,0,46,0,No,paso cubnos para que otro robot los pudiera arriba,"Conos, Cubos",Bottom Row,0,0,10,12,26.09%
+4403,Roult peñoles,62,Azul,Sí,0,0,1,No subió al dock,1,2,1,No,No,Subió al dock CON engage,,,0,71,2,Sí,Otro robot aliado bloqueo la comunity zone así que su desempeño se vio afectado,"Conos, Cubos","Bottom Row, Middle Row, Top Row",3,0,10,34,47.89%
+9282,SINAVOLT,62,Azul,Sí,1,0,0,No subió al dock,2,0,0,No,No,Park (Zona azul sin subir),No,No,1,71,2,Sí,"Se movía de manera muy brusca y chocaba con muchas cosas, después de colocar la segunda pieza el robot dejó de moverse. Los drivers fueron a decirle algo al equipo de a lado. Los drivers se alejaron de la consola.",Cubos,Bottom Row,3,0,2,14,19.72%
+6348,PrepaTec - HORUS,62,Roja,No,0,0,1,No subió al dock,0,0,3,No,No,Subió al dock SIN engage,No,No,0,46,0,No,"Inicio con cubo y lo puso en top en auto, tubo dificultades al poner un cono en top dos veces, movia las piezas de bottom a top","Conos, Cubos",Top Row,0,0,6,27,58.70%
+4403,ROULT-Peñales,62,Azul,Sí,0,0,0,No subió al dock,0,1,1,No,No,Subió al dock CON engage,No,No,1,71,2,Sí,"El alcance de su pinza es muy amplio, su pinza pasó por arriba de un robot.",Conos,"Bottom Row, Middle Row, Top Row",3,0,10,23,32.39%
+6017,CYBERIUS,63,Roja,Sí,0,0,0,Subió al dock SIN engage,4,0,0,Sí,No,Subió al dock CON engage,No,No,1,71,2,Sí,"Muy rápido, solo arrastra, pero alcanza a subir al dock","Conos, Cubos",Bottom Row,3,8,10,31,43.66%
+5887,Imperator,63,Roja,Sí,0,1,0,No subió al dock,0,1,1,No,Sí,Park (Zona azul sin subir),No,No,1,91,3,Sí,"Se tambaleaba mucho, no tenía tanto control, tiene buen mecanismo de colocar y agarre, se movía a velocidad media.",Cubos,"Bottom Row, Middle Row, Top Row",3,0,2,19,20.88%
+3794,WinT,63,Azul,No,0,0,0,Subió al dock SIN engage,3,0,0,No,No,Subió al dock CON engage,No,No,0,36,0,No,"Parece que se les rompió la pinza, el robot se dedicó a arrastrar las piezas. Ayudo a subir a uno de los otros robots que se descompuso al docking.",Cubos,Bottom Row,0,8,10,24,66.67%
+8293,Startech,63,Azul,Sí,1,0,0,No subió al dock,1,0,0,No,No,No,Sí,,0,36,0,No,Cometió foul en el autónomo y dejó de moverse a la mitad del match,"Conos, Cubos",Bottom Row,3,0,0,10,27.78%
+8293,Starttech,63,Azul,Sí,1,0,0,No subió al dock,0,0,0,Sí,No,Subió al dock SIN engage,Sí,No,0,36,0,No,"Pasaba las piezas a su alianza, los diravers se veía desesperados, pasó por encima de un cono y dejó de funcionar","Conos, Cubos",Bottom Row,3,0,6,14,38.89%
+6170,Vitronik,64,Azul,No,0,0,1,No subió al dock,0,0,2,No,No,Subió al dock CON engage,,,0,71,0,No,Es lento pero pone las piezas en top,"Conos, Cubos","Bottom Row, Middle Row, Top Row",0,0,10,26,36.62%
+4635,botbusters,64,Roja,Sí,0,1,0,Subió al dock CON engage,1,6,0,No,No,Subió al dock CON engage,No,No,2,75,3,Sí,"rápido, se atoró por un momento en lo negro","Conos, Cubos","Bottom Row, Middle Row, Top Row",3,12,10,51,68.00%
+6170,Vitronik,64,Azul,No,0,0,1,No subió al dock,0,0,2,No,No,Subió al dock CON engage,No,No,1,71,0,No,Se tarda en tomar piezas,"Conos, Cubos","Bottom Row, Middle Row, Top Row",0,0,10,26,36.62%
+7421,OVERTURE,64,Azul,Sí,0,1,0,No subió al dock,0,4,0,No,No,Subió al dock CON engage,No,No,1,71,0,No,El robot va rápido y de manera fluida. Apunta a generar links.,"Conos, Cubos","Bottom Row, Middle Row",3,0,10,31,43.66%
+9060,Hermosillo,64,Roja,No,0,0,0,No subió al dock,1,0,0,No,No,Park (Zona azul sin subir),No,No,2,75,3,Sí,"Solo apoyaba al empujar las piezas hacia sus aliados, no funcionaba su mecanismo de agarre, no hizo nada por mucho tiempo solo se paseaba por él área, no podía agarrar piezas.",Cubos,Bottom Row,0,0,2,4,5.33%
+9213,TECUANI,65,Roja,No,0,0,0,No subió al dock,1,0,0,Sí,No,Subió al dock CON engage,No,No,2,84,3,Sí,"Pasaba las piezas, se me olvida rápido, defendía, no agarraba piezas",Cubos,Bottom Row,0,0,10,12,14.29%
+6694,innobotics,52,Roja,No,1,0,0,No subió al dock,1,0,0,Sí,Sí,Subió al dock CON engage,Sí,No,2,68,0,No,.,Cubos,"Bottom Row, Middle Row",0,0,10,15,22.06%
+5959,Titanium Rams,66,Roja,Sí,0,0,0,No subió al dock,3,0,0,No,Sí,Park (Zona azul sin subir),No,,3,73,2,Sí,hizo un link,Cubos,Bottom Row,3,0,2,13,17.81%
+7725,NUTS & VOLTS,63,Roja,Sí,1,0,0,No subió al dock,0,0,0,Sí,No,Subió al dock CON engage,No,No,1,91,3,Sí,Robot muy rapido,Conos,Bottom Row,3,0,10,18,19.78%
+3158,TECBOT,66,Roja,No,1,0,0,No subió al dock,3,2,0,No,No,Subió al dock CON engage,No,No,3,73,2,Sí,"Tenía un buen mecanismo de recoger y proteger las piezas, usaron una buena estrategia, se movía lento el robot, colocaron una buena cantidad piezas.","Conos, Cubos","Bottom Row, Middle Row",0,0,10,25,34.25%
+5959,Titanium Rams,66,Roja,Sí,0,0,0,No subió al dock,6,1,0,No,No,No,No,No,3,73,2,Sí,Su estrategia se basaba en aventar las piezas y su alianza (un robot arrastrador) las acomodaba bien en el bottom. Inicialmente estaba listo para alcanzar el dock parking pero no cabía entonces hizo un middle.,"Conos, Cubos","Bottom Row, Middle Row",3,0,0,20,27.40%
+4584,SentinelFox Engineering,67,Azul,No,0,0,1,No subió al dock,2,0,0,Sí,Sí,Subió al dock SIN engage,No,No,0,44,0,No,"Se les rompió una pieza, entonces el robot no pudo agarrar piezas, solo las arrastraba. Solo colocó dos cubos, pero acercó bastantes a su alianza.",Cubos,"Bottom Row, Top Row",0,0,6,16,36.36%
+6647,PrepaTec - VOLTEC Robotics,65,Roja,No,1,0,0,Subió al dock CON engage,1,3,0,No,No,Park (Zona azul sin subir),No,No,3,84,3,Sí,La pinza tarda en subir y bajar,"Conos, Cubos","Bottom Row, Middle Row",0,12,2,28,33.33%
+3158,PrepaTec - TECBOT,66,Roja,No,1,0,0,No subió al dock,2,1,0,No,No,Subió al dock CON engage,No,No,3,75,2,Sí,Inico con cubo que trato de poner en middle pero se cayo a bottom,"Conos, Cubos","Bottom Row, Middle Row",0,0,10,20,26.67%
+6017,Cyberius,67,Roja,Sí,0,0,0,No subió al dock,1,0,0,No,No,Subió al dock SIN engage,No,No,1,34,0,No,Llevo piezas a su community para que las pusieran arriva sus compañeros,"Conos, Cubos",Bottom Row,3,0,6,13,38.24%
+3933,Taman Keet,67,Roja,Sí,0,0,1,No subió al dock,0,0,1,No,No,No,No,No,1,34,0,No,Se me dificulta mucho agarrar las games pieces y ponerlas,Conos,"Bottom Row, Middle Row, Top Row",3,0,0,16,47.06%
+4775,Aztech Robotics,67,Azul,No,1,0,0,Subió al dock CON engage,2,1,1,No,Sí,Subió al dock SIN engage,No,No,0,46,2,Sí,Muy bien hecho. Se movió muy rápido y tenia un muy buen mecanismo para poner piezas.,"Conos, Cubos","Bottom Row, Middle Row, Top Row",0,12,6,33,71.74%
+6017,CYBERIUS,67,Roja,Sí,0,0,0,No subió al dock,1,0,0,No,Sí,Subió al dock SIN engage,No,No,1,34,0,No,"Se movía rápido, arrastraba las piezas , no podía agarrar conos,",Cubos,Bottom Row,3,0,6,13,38.24%
+3933,PrepaTec - Taman Keet,67,Roja,Sí,0,0,1,No subió al dock,2,0,0,No,No,Subió al dock SIN engage,No,No,1,34,0,No,"Muy rapido, aunque la pinza es muy volatil, arrastro las piezas y luego las puso","Conos, Cubos","Bottom Row, Top Row",3,0,6,21,61.76%
+6170,vitronik,2do match,Roja,No,0,0,0,No subió al dock,0,0,0,No,No,No,No,No,0,89,0,Sí,se atoro y no pudo hacer nada,"Conos, Cubos","Bottom Row, Middle Row",0,0,0,0,0.00%
+5959,Titanium Rams,3 Finales,Azul,No,0,0,0,No subió al dock,4,0,0,No,No,No,No,No,1,39,0,No,"Empece el scouting despues del autonomo asi que puse todo en 0. Rapidos, pero se limitaban al bottom row y tenian dificultad agarrando conos, solo los empujaban. Si agarraban cubos","Conos, Cubos",Bottom Row,0,0,0,8,20.51%
+5887,IMPERATOR,3,Azul,Sí,0,0,0,No subió al dock,1,0,3,No,No,No,No,,1,89,0,Sí,solo ponia cubo en la parte de arriba,Cubos,Top Row,3,0,0,22,24.72%
+4010,Nautilus,3 semi,Roja,No,0,0,0,Subió al dock CON engage,8,0,0,Sí,No,Subió al dock CON engage,No,No,1,89,0,Sí,Se diedico a poner abajo y defendió,"Conos, Cubos",Bottom Row,0,12,10,38,42.70%
+7102,Deadalus,Match 3,Roja,Sí,0,0,0,No subió al dock,0,2,2,No,Sí,Subió al dock CON engage,No,No,1,89,0,Sí,Se mueve rapido pero no con tanto equilibrio,"Conos, Cubos","Middle Row, Top Row",3,0,10,31,34.83%
+6106,PrepaTec - TecGear,3 semi,Roja,Sí,1,0,0,No subió al dock,1,0,0,No,No,No,,,1,39,0,No,Se mantuvo inmovil la mayor parte de la partida por desconexion/tirar equipamiento del head referee,Conos,Bottom Row,3,0,0,10,25.64%
+2283,Panteras,3 semi,Roja,Sí,0,0,0,No subió al dock,1,3,0,No,No,Subió al dock CON engage,No,No,0,80,0,Sí,"lento pero pinza eficiente, se concentra en múdele row","Conos, Cubos","Bottom Row, Middle Row, Top Row",3,0,10,26,32.50%
+3472,Buluk,4,Azul,No,0,0,0,No subió al dock,0,0,2,No,Sí,No,No,,2,60,0,No,agarraba cubos y aveces los ponia en la parte superior pero la mitad del juego se quedo dando vueltas para interrumpir el paso de los robots,Cubos,Top Row,0,0,0,10,16.67%
+6348,HORUS,4 semi,Azul,Sí,0,1,0,No subió al dock,1,0,1,No,No,Subió al dock CON engage,No,No,1,60,0,No,"Se quedo enfocado en un cono que no se dejaba y asi perdieron muchisimo tiempo. Pueden agarrar conos pero son malisimos, son mejores en cubos. No habia mucho trabajo en equipo y bloqueo a su compañero de que subiera al dock","Conos, Cubos","Bottom Row, Middle Row, Top Row",3,0,10,26,43.33%
+7421,Overture,4,Roja,Sí,0,1,0,No subió al dock,0,3,1,No,No,Subió al dock CON engage,,Sí,2,80,0,Sí,El robot tenía una conducción muy buena y el acomodo de los objetos era igual de buena. La coordinación de su equipo era muy buena más aveces se confundían en su orientación.,"Conos, Cubos","Bottom Row, Middle Row",3,0,10,33,41.25%
+6017,Cyberius,Match 4 semi,Roja,Sí,0,0,0,Subió al dock CON engage,4,0,0,No,Sí,Subió al dock CON engage,No,No,2,89,0,Sí,"No es muy habil con lo que sea encima del suelo, pero arrastra muy bien","Conos, Cubos","Middle Row, Top Row",3,12,10,35,39.33%
+9282,PrepaTec- SINAVOLT,Semis 4,Azul,No,1,0,0,No subió al dock,2,0,0,No,Sí,Park (Zona azul sin subir),No,No,2,60,0,No,"Se enfoco en cubos en bottom, le robaron un cubo",Cubos,Bottom Row,0,0,2,9,15.00%
+3794,WinT,M5,Roja,Sí,0,0,0,Subió al dock CON engage,3,0,0,Sí,No,Subió al dock CON engage,No,No,0,76,0,No,solo defiende y arrastra,"Conos, Cubos",Bottom Row,3,12,10,33,43.42%
+8734,BATS,M5,Roja,Sí,0,0,0,No subió al dock,0,0,0,No,No,No,No,No,3,76,0,No,El robot le falló algo y no se movió en toda la partida y no hizo nada,Ninguno,Bottom Row,3,0,0,5,6.58%
+6694,INNOBOTICS,M5,Azul,Sí,1,0,0,No subió al dock,4,0,0,Sí,Sí,Subió al dock CON engage,No,No,3,91,0,Sí,Dedicados a agarrar y poner tantos cubos en bottom row como pudieran. Rapidos y con presicion normal. Defendieron poco. Autonomo coloca un cubo y sale de community,Cubos,Bottom Row,3,0,10,26,28.57%
+7546,MinerZ,M5,Roja,Sí,0,1,0,No subió al dock,3,2,0,No,No,Subió al dock CON engage,No,No,3,76,0,No,"Chocaba mucho con las paredes, los conos los arrastraba si estaban acostados, recogía puros conos, tiene buena velocidad.","Conos, Cubos","Bottom Row, Middle Row",3,0,10,31,40.79%
+9213,TECUANI,M5,Azul,No,0,0,0,No subió al dock,2,0,0,Sí,No,No,No,,3,91,0,Sí,"Defiende muy bien y agresivo, se la paso defendiendo y en ves en cusndo empujaba conos",Conos,Bottom Row,0,0,0,4,4.40%
+6106,techgear,M6,Roja,Sí,0,0,0,No subió al dock,0,2,0,No,No,Park (Zona azul sin subir),No,No,2,95,0,Sí,"pone en medio, muy lento para moverse","Conos, Cubos","Bottom Row, Middle Row",3,0,2,13,13.68%
+6106,",",M6,Roja,Sí,1,0,0,No subió al dock,1,2,0,No,No,Subió al dock CON engage,No,No,3,95,0,Sí,‘,"Conos, Cubos","Bottom Row, Middle Row",3,0,10,26,27.37%
+6348,HORUS,M6,Azul,Sí,0,0,1,No subió al dock,1,0,3,No,Sí,Subió al dock SIN engage,Sí,No,1,61,0,No,"Enfocados en top row, igual preferencia de conos y cubos, hicieron un foul","Conos, Cubos","Bottom Row, Middle Row, Top Row",3,0,6,34,55.74%
+3472,Buluk,M6,Azul,Sí,0,0,0,No subió al dock,2,0,0,Sí,Sí,Subió al dock SIN engage,No,,1,72,0,No,queria atacar al de 5887 pero el 5959 ño lo dejaba,Cubos,Bottom Row,3,0,6,15,20.83%
+5959,Titanium Rams,M6,Roja,Sí,1,0,0,No subió al dock,4,0,0,Sí,No,Subió al dock CON engage,Sí,No,3,96,0,Sí,"El robot defendía bien, se movía bien arrastraba los cubos hasta la zona.",Cubos,Bottom Row,3,0,10,26,27.08%
+3933,PrepaTec - Taman Keet,M5,Azul,No,0,0,1,No subió al dock,0,0,2,No,No,Subió al dock CON engage,No,No,3,91,0,Sí,Se especializo en piezas top,"Conos, Cubos",Top Row,0,0,10,26,28.57%
+6702,Stingbot,M7,Roja,Sí,0,1,0,No subió al dock,0,0,0,Sí,No,Subió al dock CON engage,No,No,0,147,0,No,"Solo defiende, solo hace algo en teleoperador muy apenas se mueve",Cubos,"Bottom Row, Middle Row",3,0,10,19,12.93%
+3158,TECBOT,M7,Azul,Sí,0,0,0,No subió al dock,1,0,2,Sí,Sí,Subió al dock CON engage,Sí,No,2,96,0,No,"Le chocaban a cada rato y se le caian las piezas, fallo colocando la pieza de autonomo, hizo un foul","Conos, Cubos","Bottom Row, Middle Row, Top Row",3,0,10,27,28.13%
+4635,botbusters,M7,Roja,Sí,0,0,2,No subió al dock,0,1,3,No,No,No,No,No,2,147,0,Sí,"rapido, apunta a los altos","Conos, Cubos","Bottom Row, Middle Row",3,0,0,35,23.81%
+3478,Lambot,M7,Roja,Sí,0,0,1,Subió al dock CON engage,0,2,2,Sí,No,Subió al dock CON engage,No,No,3,147,0,Sí,‘,"Conos, Cubos","Middle Row, Top Row",3,12,10,49,33.33%
+6647,VOLTEC,M7,Azul,No,0,0,0,Subió al dock CON engage,1,2,0,No,Sí,Subió al dock CON engage,No,,2,96,0,No,colocaba conos en medio,Conos,"Bottom Row, Middle Row",0,12,10,30,31.25%
+4403,PrepaTec - ROULT - Peñoles,M8,Azul,Sí,0,0,0,No subió al dock,1,0,2,Sí,Sí,Subió al dock CON engage,No,No,2,96,0,No,Especialista en piezas top,"Conos, Cubos",Top Row,3,0,10,27,28.13%
+7102,Deadalus,M8,Roja,Sí,0,0,1,No subió al dock,0,1,3,No,No,Subió al dock CON engage,No,No,3,106,0,Sí,Muy completo lanza bien los cubos pero se le complica colocar los conos,"Conos, Cubos","Bottom Row, Middle Row, Top Row",3,0,10,39,36.79%
+6170,Vitronik,M8,Roja,No,0,0,1,No subió al dock,0,0,2,No,Sí,Park (Zona azul sin subir),No,No,3,106,0,Sí,"Un poco lentos, solo conos",Conos,"Bottom Row, Middle Row, Top Row",0,0,2,18,16.98%
+7421,OVERTURE,M8,Azul,Sí,0,1,0,No subió al dock,0,1,3,No,Sí,Subió al dock CON engage,No,No,2,76,0,No,"Precisos, manejan con seguridad. Dependen del human player para que les de las piezas. Prioritizan top row y el dock (en teleop). Auto pone un cono y sale de community. Se les cayo un cono en que los golpearon",Conos,"Bottom Row, Middle Row, Top Row",3,0,10,37,48.68%
+4010,nautilus,M8,Roja,Sí,1,0,0,Subió al dock SIN engage,5,0,0,No,No,Subió al dock CON engage,No,No,2,106,0,Sí,defiende y roba cubos(muy rápido),Cubos,Bottom Row,3,8,10,36,33.96%
+2283,Panteras,M8,Azul,No,0,0,0,Subió al dock SIN engage,3,0,1,No,Sí,Subió al dock CON engage,No,No,2,76,0,No,agarra las cosas con facilidad,"Conos, Cubos","Bottom Row, Middle Row, Top Row",0,8,10,29,38.16%
+9282,PrepaTec- SINAVOLT,M6,Azul,No,1,0,0,Subió al dock CON engage,1,0,0,No,No,Park (Zona azul sin subir),Sí,No,1,61,0,No,Tuvo problemas agarrando cubos,"Conos, Cubos",Bottom Row,0,12,2,19,31.15%
+6647,Voltec,M9,Roja,Sí,1,0,0,Subió al dock CON engage,1,2,0,Sí,No,Subió al dock CON engage,No,No,3,103,0,Sí,:),"Conos, Cubos","Bottom Row, Middle Row, Top Row",3,12,10,38,36.89%
+5887,IMPERATOR,M9,Azul,Sí,1,0,0,No subió al dock,2,0,0,Sí,No,No,No,No,2,47,0,No,"Ponia solo cubos, velocidad y precision normales. Manejaba un poco inseguro a ratos",Cubos,"Bottom Row, Middle Row",3,0,0,12,25.53%
+6017,Cyberius,M10,Roja,Sí,1,0,0,Subió al dock SIN engage,3,0,0,Sí,No,Subió al dock CON engage,No,No,0,92,0,Sí,rápido arrastrador solamente,"Conos, Cubos",Bottom Row,3,8,10,32,34.78%
+6694,INNOBOTICS,M10,Azul,Sí,1,0,0,No subió al dock,3,0,0,No,Sí,Park (Zona azul sin subir),No,No,1,56,0,No,"Enfocado en bottom row, poco precisos tanto en pinza como colocando",Cubos,Bottom Row,3,0,2,16,28.57%
+6017,PrepaTec - Cyberius + Abtomat + Rockin Robots,M8,Azul,No,1,0,0,Subió al dock SIN engage,2,0,0,Sí,No,Park (Zona azul sin subir),Sí,No,2,76,0,No,"Tuvo problemas con auto pues dos trataron de subirse al dock, tuvo que arrastrar cubos, es rapido","Conos, Cubos",Bottom Row,0,8,2,17,22.37%
+4010,Nautilus,M11,Azul,No,1,0,0,Subió al dock SIN engage,6,0,0,Sí,No,Subió al dock CON engage,Sí,No,2,88,0,No,Rapido y agil pero hace fouls por pegarle a robots a cada rato. Autononomo pone un cubo y sale de community,Cubos,Bottom Row,0,8,10,33,37.50%
+3478,lambot,M11,Roja,Sí,0,0,1,Subió al dock CON engage,0,3,1,Sí,No,Subió al dock CON engage,No,No,3,129,0,Sí,"rápido, apunta a en medio, se le caen conos si se descuidan","Conos, Cubos","Bottom Row, Middle Row",3,12,10,47,36.43%
+7102,Daedalus,M11,Azul,No,0,1,0,No subió al dock,0,2,1,No,Sí,Park (Zona azul sin subir),Sí,No,1,88,0,No,"Se movía lento, colóco varias piezas.","Conos, Cubos","Bottom Row, Middle Row",0,0,2,17,19.32%
+4625,Botbusters,11,Azul,Sí,0,0,2,No subió al dock,0,0,5,No,Sí,Subió al dock CON engage,No,No,3,129,0,Sí,Muy rápido y preciso,"Conos, Cubos",Top Row,3,0,10,52,40.31%
+4635,Botbusters,11,Roja,Sí,0,0,2,No subió al dock,0,0,6,No,No,Subió al dock CON engage,No,No,3,129,0,Sí,El robot puede agarrar las piezas que están atrás de el aun cuando el robot está viendo hacia el frente. Por ir rápido el robot a veces se balancea por la fuerza de las pinzas. Va muy rápido. Esquiva los robot que lo intenten defender. Su objetivo es crear links.,"Conos, Cubos","Bottom Row, Middle Row, Top Row",3,0,10,57,44.19%
+4010,Naetelus,11,Azul,No,1,0,0,Subió al dock SIN engage,5,0,0,Sí,No,Subió al dock CON engage,Sí,No,2,88,0,No,Naetelus lo hizo espectacular,Cubos,Bottom Row,0,8,10,31,35.23%
+3158,TECBOT,M12,Azul,No,0,1,0,No subió al dock,2,2,0,No,Sí,Subió al dock SIN engage,No,No,3,109,0,Sí,"Su auto choco con el cable y no salio de community, pero fue muy eficaz en poner cubos en middle y bottom row. Casi subio a dock",Cubos,"Bottom Row, Middle Row",0,0,6,20,18.35%
+2283,Panteras,12,Roja,No,0,0,0,No subió al dock,0,0,0,Sí,No,Subió al dock CON engage,Sí,No,3,83,0,No,Se les rompió la pinza al iniciar la partida así que se encargó de defender. Va rápido. Se les atravesaba a los robots de manera muy brusca.,Ninguno,Bottom Row,0,0,10,10,12.05%
+6170,Prepa Tecmilenio Vitronik,M11,Azul,No,0,0,1,No subió al dock,1,0,0,No,No,Subió al dock CON engage,Sí,No,2,88,0,No,"Robot inestable, trato de poner piezas en top pero a veces no pudo, solto un cono",Conos,"Bottom Row, Top Row",0,0,10,18,20.45%
+6647,PrepaTec - VOLTEC Robotics,M12,Azul,No,1,0,0,Subió al dock SIN engage,1,2,0,No,No,Subió al dock CON engage,No,No,3,109,0,Sí,Algunos problemas al agarrar piezas,Conos,"Bottom Row, Middle Row",0,8,10,29,26.61%
+3158,TECBOT,M13,Azul,No,0,1,0,No subió al dock,4,0,0,No,No,Subió al dock CON engage,No,No,4,111,0,Sí,"Super bien tecbot!! Se hizo trafico en el area de human player pero pusieron muchas piezas y fueron muy rapidos, subieron muy a tiempo, solo otravez chocaron con el cable","Conos, Cubos",Bottom Row,0,0,10,22,19.82%
+6647,Votec Robotics,48,Azul,Sí,1,0,0,Subió al dock CON engage,4,2,0,No,No,Park (Zona azul sin subir),No,No,2,126,3,Sí,,"Conos, Cubos","Bottom Row, Middle Row",3,12,2,36,28.57%
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,13.90909091,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,11,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,27.625,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
